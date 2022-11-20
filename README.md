@@ -20,15 +20,24 @@ mike
 
 
 ### Equipment
-[Tools](ref_tools.md)
+[Tools](ref_tools.md)  
+[Cable - RGx](ref_rg cable.md)  
+[CCTV Cameras that don't suck](ref_cameras.md)  
+[Truss](ref_truss.md)  
 
 ### Software
 [QLab](ref_qlab.md)
 
 ### Process
+[System Tuning](ref_tuning.md)  
+[What to include in a workbook](ref_workbooks.md)  
+[Implementing Show Control](ref_show control.md)  
+
 
 ### Job Roles And Skills
 
 ### Shops
 [PRG](ref_prg.md)  
-[Masque](ref_masque.md)
+[Masque](ref_masque.md)  
+[Sound Associates](ref_sound associates.md)  
+
