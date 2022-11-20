@@ -26,11 +26,11 @@ mike
 [Truss](ref_truss.md)
 
 ### Perishables & Where to find them
-[Perishables, general](ref_perishables.md)
+[Perishables, general](ref_perishables.md)  
 [Rigging perishables](ref_rigging.md)
 
 ### Software
-[QLab](ref_qlab.md)
+[QLab](ref_qlab.md)  
 [Minotaur](ref_minotaur.md)
 
 ### Process
