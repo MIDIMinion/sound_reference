@@ -35,7 +35,7 @@ mike
 
 ### Process
 [What to include in a workbook](ref_workbooks.md)  
-[Shop Bids](ref_shop bids.md)  
+[Shop Bids](ref_shop_bids.md)  
 [System Tuning](ref_tuning.md)  
 [Implementing Show Control](ref_show_control.md)  
 
