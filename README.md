@@ -11,17 +11,17 @@ mike
 ## Table Of Contents
 
 ### Facilities
-[CSC](ref_venues - CSC.md)  
-[New World Stages Stage 1](ref_venues - NWS, Stage 1.md)  
-[New World Stages Stage 3](ref_venues - NWS, Stage 3.md)  
-[New World Stages Stage 4](ref_venues - NWS, Stage 4.md)  
+[CSC](ref_venues_-_CSC.md)  
+[New World Stages Stage 1](ref_venues_-_NWS_Stage_1.md)  
+[New World Stages Stage 3](ref_venues_-_NWS_Stage_3.md)  
+[New World Stages Stage 4](ref_venues_-_NWS_Stage_4.md)  
 
-[NYSF - Safra Hall](ref_venues - NYTF safra hall.md)  
+[NYSF - Safra Hall](ref_venues_-_NYTF_safra_hall.md)  
 
 
 ### Equipment
 [Tools](ref_tools.md)  
-[Cable - RGx](ref_rg cable.md)  
+[Cable - RGx](ref_rg_cable.md)  
 [CCTV Cameras that don't suck](ref_cameras.md)  
 [Truss](ref_truss.md)
 
@@ -37,7 +37,7 @@ mike
 [What to include in a workbook](ref_workbooks.md)  
 [Shop Bids](ref_shop bids.md)  
 [System Tuning](ref_tuning.md)  
-[Implementing Show Control](ref_show control.md)  
+[Implementing Show Control](ref_show_control.md)  
 
 
 ### Job Roles And Skills
@@ -50,5 +50,5 @@ mike
 ### Shops
 [PRG](ref_prg.md)  
 [Masque](ref_masque.md)  
-[Sound Associates](ref_sound associates.md)  
+[Sound Associates](ref_sound_associates.md)  
 
