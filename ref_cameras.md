@@ -11,12 +11,17 @@ A place to put notes about good cameras, lenses, and useful info
     * composite video
     * Day/Night capable
     * auto-focus
-    * IR cut filter switches on/off to enhance sensitivity in BW mode
+    * NOT TRUE IR
+        * IR cut filter switches on/off to enhance sensitivity in BW mode
 * Panasonic WV-CP500
     * composite video
     * Day/Night capable
     * auto-focus
-    * IR cut filter switches on/off to enhance sensitivity in BW mode
+    * NOT TRUE IR
+        * IR cut filter switches on/off to enhance sensitivity in BW mode
+* Ikegami ICD-47
+    * low light, high IR sensitivity camera
+
 
 ## Lenses
 * Rainbow L5-50mm 1:1.45 CS
@@ -107,6 +112,9 @@ A place to put notes about good cameras, lenses, and useful info
     * White Bal: ATW1
     * DNR: HIGH
     * BW Mode: on
+
+## Ikegami ICD-47 (IR mode)
+* *rent one of these and play with settings, then record here*
 
 # Show Cameras & Settings
 

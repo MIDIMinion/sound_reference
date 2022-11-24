@@ -1,6 +1,6 @@
 # Sound Perishables Reference Notes
 
-## Shop Supplies
+## Shop Supplies & Tools
 
 ##### Zip Ties
 * Panduit PLT2M-M0
@@ -116,9 +116,6 @@
 * Canned Air, 3 pack - $8
 	* https://tinyurl.com/3jdu7bu6
 
-
-
-
 ### Tools
 * ZTS Mini Multi Battery Load Cell Tester - $45
 	* https://tinyurl.com/3bfykvdt
@@ -145,3 +142,60 @@
 * whip finisher: https://tinyurl.com/3fd62bsr
 * clear nylon tippet line: https://tinyurl.com/mry83fcv
 	* 3x or 4x is what you want
+
+## Rigging Supplies & Tools
+
+### Tools
+* Felco C7 wire cutters - $65
+    * https://tinyurl.com/2p8kn7eh
+* Tyler 8" Cable Cutter - $33
+    * https://tinyurl.com/dht6wdpu
+* Tyler 13" Cable Cutter - $86
+    * https://tinyurl.com/s5ztnyrw
+* Tyler 24" Hand Swager - $130
+    * https://tinyurl.com/3buxtvfa
+* [Go-No-Go]
+
+### Thimbles
+* 1/16" AN Type Thimble - $0.62
+	* https://tinyurl.com/2tbsfy59
+* 1/8" AN Type Thimble - $0.81
+	* https://tinyurl.com/2p88es85
+* 3/16" AN Type Thimble - $1.07
+	* https://tinyurl.com/ycy2sxdz
+* 1/4" AN Type Thimble - $2.05
+	* https://tinyurl.com/yyd7usu9
+
+### Sleeves
+* 1/16" copper swage sleeve - $0.08
+	* https://tinyurl.com/53t97y4j
+* 1/8" copper swage sleeve - $0.48
+	* https://tinyurl.com/2p8v4b2p
+* 3/16" copper swage sleeve - $1.44
+	* https://tinyurl.com/jeknaf3f
+* 1/4" copper swage sleeve - $2.10
+	* https://tinyurl.com/ud2drt53
+
+### Stops
+* 1/16" copper swage stop - $0.16
+	* https://tinyurl.com/2s4kbbuz
+* 1/8" copper swage stop - $0.38
+	* https://tinyurl.com/2p83tsa9
+* 3/16" coper swage stop - $0.50
+	* https://tinyurl.com/ye25zvn3
+* 1/4" copper swage stop - $4.00
+	* https://tinyurl.com/43pcvyyz
+
+### Wire Rope
+* 1/16" x 250' 7x7 Black Galvanized Aircraft Cable - $31.85
+	* https://tinyurl.com/mrk6ebey
+* 1/8" x 250' 7x19 Black Galvanized Aircraft Cable - $62.70
+	* https://tinyurl.com/mryvettp
+* 3/16" x 250' 7x19 Black Galvanized Aircraft Cable - $102.55
+	* https://tinyurl.com/2p8693zv
+* 1/4" x 250' 7x19 Black Galvanized Aircraft Cable - $153.70
+	* https://tinyurl.com/5krj9ebn
+
+### Rope & Pulleys
+* 10.2mm x 80M Rope
+	* https://tinyurl.com/2s4xbdmr

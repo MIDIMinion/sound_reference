@@ -17,7 +17,6 @@ mike
 [New World Stages Stage 1](ref_venues_-_NWS_Stage_1.md)  
 [New World Stages Stage 3](ref_venues_-_NWS_Stage_3.md)  
 [New World Stages Stage 4](ref_venues_-_NWS_Stage_4.md)  
-
 [NYSF - Safra Hall](ref_venues_-_NYTF_safra_hall.md)  
 [Signature Theater - Diamond](ref_venues_-_Signature_Theater_Diamond.md)  
 [St. Lukes](ref_venues_-_st_lukes.md)
@@ -33,11 +32,12 @@ mike
 [Go button](ref_go_button.md)  
 [Truss](ref_truss.md)  
 [Road cases](ref_road_cases.md)  
-[Personal Monitoring](ref_personal_monitoring.md)  
+[Rigging](ref_rigging.md)  
+[Personal Monitoring](ref_personal_monitoring.md)      
 
 ### Perishables & Where to find them
-[Perishables, general](ref_perishables.md)  
-[Rigging perishables](ref_rigging.md)  
+[Perishables](ref_perishables.md)  
+* shop supplies, A2 supplies, rigging supplies
 
 ### Software
 [QLab](ref_qlab.md)  
