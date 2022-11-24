@@ -38,7 +38,7 @@ mike
 ### Perishables & Where to find them
 [Perishables](ref_perishables.md)  
 * [shop supplies](https://github.com/MIDIMinion/sound_reference/blob/deyo-branch-1/ref_perishables.md#shop-supplies--tools)
-* [A2 supplies](rhttps://github.com/MIDIMinion/sound_reference/blob/deyo-branch-1/ref_perishables.md#a2-supplies--tools)
+* [A2 supplies](https://github.com/MIDIMinion/sound_reference/blob/deyo-branch-1/ref_perishables.md#a2-supplies--tools)
 * [rigging supplies](https://github.com/MIDIMinion/sound_reference/blob/deyo-branch-1/ref_perishables.md#rigging-supplies--tools)
 
 ### Software
