@@ -37,7 +37,9 @@ mike
 
 ### Perishables & Where to find them
 [Perishables](ref_perishables.md)  
-* shop supplies, A2 supplies, rigging supplies
+* [shop supplies](ref_perishables.md#L3)
+* A2 supplies
+* rigging supplies
 
 ### Software
 [QLab](ref_qlab.md)  
