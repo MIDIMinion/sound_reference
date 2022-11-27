@@ -15,15 +15,21 @@
 * Return Trip: Rutherford Rail to NY Penn, transfer at Secaucus
     * leave shop at: [time]
 
-## Shop Reps
-* Cami Letrick
+## Shop Reps & Staff
+* Cami Letrick - Project Manager
     * camiletrick@masquesound.com
-* Leslie Stong
+* Leslie Stong - Project Manager
     * LeslieStong@masquesound.com
-* Jason McKenna
+* Jason McKenna - Project Manager
     * jasonmckenna@masquesound.com
-* Scott Kalata (retired 2022?)
+* Scott Kalata - Director of Sales
     * scottkalata@masquesound.com
+* Gary Stocker - Technical Director (consoles)
+    * GaryStocker@masquesound.com
+* Doug Cross - Technical Coordinator 
+    * DougCross@masquesound.com
+* Jim Romano - Computer Wizard
+    * JimRomano@masquesound.com
 
 ## Typical Schedules
 * Call time: 8:30am to 4:30pm
