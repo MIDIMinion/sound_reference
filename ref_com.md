@@ -33,3 +33,56 @@ The following beltpacks have individual control over mic gain:
 ## Repair Info
 * MS-440
     * Talk button bulb: 5v 30mA radial bi-pin
+
+## Rcording Com
+
+### Freespeak II
+You can record com channels off the basestations 4-wire ports with an RJ45 to XLR adapter.
+
+**Getting Line Level audio in/out of 4-wire com**
+| RJ45 pin | RJ45 color | XLR pin |
+| --- | --- | --- |
+| pin 3 | green-striped | pin 2 (socket) |
+| pin 4 | blue | pin 2 (plug) |
+| pin 5 | blue-striped | pin 3 (plug) |
+| pin 6 | green | pin 3 (socket) |
+
+### RS-601
+The auxillary headphone connector on an RS-601 can be used to record the audio off the com channel the beltpack is connected to. you'll need:
+* 1 @ [2.5mm plug to 3.5mm socked adapter](https://tinyurl.com/4pt5ubsf)
+* 1 @ 3.5mm plug to dual XLR plug
+
+the left channel of the 3.5mm to dual XLR adapter will have the earpiece audio signal on it
+
+## Clear-Com Pinouts
+**2-Wire**
+| pin | purpose|
+| --- | --- |
+| pin 1 | ground |
+| pin 2 | DC power (30V) |
+| pin 3 | duplex audio |
+
+**4-Wire**
+| pin | to panel | to matrix |
+| --- | --- | --- |
+| pin 1 | RS-422 input + (into matrix) | RS-422 output + (from panel) |
+| pin 2 | RS-422 input - (into matrix) | RS-422 input + (from panel) |
+| pin 3 | audio input + (into matrix) | audio output + (from panel) |
+| pin 4 | audio output + (from matrix) | audio input + (into panel) |
+| pin 5 | audio outout - (from matrix) | audio input - (into panel) |
+| pin 6 | audio input - (into matrix) | audio output - (from panel) |
+| pin 7 | RS-422 output + (from matrix) | RS-422 input + (into panel) |
+| pin 8 | RS-422 output - (from matrix) | RS-422 input - (into panel) |
+
+**GPIO DB-9**
+| pin | purpose |
+| --- | --- |
+| pin 1 | line out (mic out) + |
+| pin 2 | line in + |
+| pin 3 | ground |
+| pin 4 | relay (GPO), normally closed |
+| pin 5 | relay (GPO), normally open |
+| pin 6 | line out (mic out) - |
+| pin 7 | line in - |
+| pin 8 | GPPI (short GPI pin to ground to activate) |
+| pin 9 | relay (GPO) common (relay wiper) |
