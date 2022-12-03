@@ -34,7 +34,7 @@ The following beltpacks have individual control over mic gain:
 * MS-440
     * Talk button bulb: 5v 30mA radial bi-pin
 
-## Rcording Com
+## Recording Com
 
 ### Freespeak II
 You can record com channels off the basestations 4-wire ports with an RJ45 to XLR adapter.
