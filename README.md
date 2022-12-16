@@ -8,6 +8,26 @@ this is definitely a rough first pass. lots of info to update, organize, and add
 thanks,
 mike
 
+## How to Contribute to these Notes
+[put some instructions on how public folks can contribute notes]
+[it should involve steps on how to make a branch, and submit a "merge to main branch" for review]
+
+## WIP for this branch
+* [ ] add: speaker bolt/hardware info
+* [ ] add: speaker yoke measurements
+* [ ] add: to MIDI/show control notes which consoles/devices can power a MIDI Solutions Quadra merge?
+* [ ] add: kevin's weird incremented midi note from soldiers play tour
+* [ ] add: sam's reverb patching to QLab ref notes
+* [ ] add: shop passwords from keving email?
+* [ ] add: mega claw/clamp measurements
+* [ ] add speaker yoke measurements
+	* center of rotation to top of yoke
+* [ ] question: what's the most useful way to convey trim height of speakers?
+	* top of speaker to grid?
+	* bottom of speaker to deck?
+	* for trapeze: grid to trapeze pipe?
+	* for speakers hung against walls/scenery: mount/clamp point to deck?
+
 ## Table Of Contents
 
 ### Facilities
