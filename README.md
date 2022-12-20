@@ -13,14 +13,14 @@ mike
 [it should involve steps on how to make a branch, and submit a "merge to main branch" for review]
 
 ## WIP for this branch
-* [ ] add: speaker bolt/hardware info
-* [ ] add: speaker yoke measurements
-* [ ] add: to MIDI/show control notes which consoles/devices can power a MIDI Solutions Quadra merge?
-* [ ] add: kevin's weird incremented midi note from soldiers play tour
+* [X] add: speaker bolt/hardware info
+* [X] add: speaker yoke measurements
+* [X] add: to MIDI/show control notes which consoles/devices can power a MIDI Solutions Quadra merge?
+* [X] add: kevin's weird incremented midi note from soldiers play tour
 * [ ] add: sam's reverb patching to QLab ref notes
 * [ ] add: shop passwords from keving email?
 * [ ] add: mega claw/clamp measurements
-* [ ] add speaker yoke measurements
+* [X] add speaker yoke measurements
 	* center of rotation to top of yoke
 * [ ] question: what's the most useful way to convey trim height of speakers?
 	* top of speaker to grid?
@@ -88,7 +88,7 @@ mike
 [Useful numbers to know about electrical power](ref_power.md)  
 [Hanging an array](ref_arrays.md)  
 [Math pertaining to sound](ref_soundmaths.md)  
-[Doing a show outdoors](ref_outdoor_shows.md)
+[Doing a show outdoors](ref_outdoor_shows.md)  
 [Mic'ing musical instruments](ref_micing_instruments.md)
 
 [Novel craftsmanship](ref_clever_sound_things.md)
