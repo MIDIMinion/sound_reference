@@ -22,6 +22,7 @@ mike
 * [ ] add: mega claw/clamp measurements
 * [X] add speaker yoke measurements
 	* center of rotation to top of yoke
+* [X] remove venue combo info
 * [ ] question: what's the most useful way to convey trim height of speakers?
 	* top of speaker to grid?
 	* bottom of speaker to deck?
