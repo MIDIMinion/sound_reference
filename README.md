@@ -54,7 +54,8 @@ mike
 [Truss](ref_truss.md)  
 [Road cases](ref_road_cases.md)  
 [Rigging](ref_rigging.md)  
-[Personal Monitoring](ref_personal_monitoring.md)      
+[Personal Monitoring](ref_personal_monitoring.md)
+[Speaker Specs](ref_speaker_specs.md)		      
 
 ### Perishables & Where to find them
 [Perishables](ref_perishables.md)  
