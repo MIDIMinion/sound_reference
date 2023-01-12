@@ -77,16 +77,7 @@
 ## Speaker Bolts
 *who hasn't needed to run to the local hardware store in order to finish hanging speakers, right!? right...?*
 
-### Meyer
-* UPQ: M10
-* CQ1: M10
-* UPA: M10
-* UPJ: M8
-* UP Jr: M20
-* UPM: M10
-* UP4-XP: M10
-* UP-4SLIM: M8
-* MM-4XP/D: 3/8"-16
+*data in process of being moved to ref_speaker_specs.md*
 
 ### d&b
 * E0: M10
