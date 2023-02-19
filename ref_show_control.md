@@ -59,6 +59,11 @@
 * the galaxy assumes that any values sent to it via OSC are in sample rates at 96kHz.
 	* if you're trying to set delay times, multiply the value in ms you WANT by 96. the resulting number is the value (in samples) that should be sent to the galaxy
 		* ex. 80ms * 96 = 7680 (send this value to galaxy)
+### wave tool
+* port: 50035
+* Ip address must be computer running wave tool main license. Cannot trigger OSC message on client computer 
+/wtchat/QLAB/{dest} "message"
+*{Dest} can be All or name set in preferences 
 
 ## MIDI
 
