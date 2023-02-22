@@ -8,6 +8,27 @@ this is definitely a rough first pass. lots of info to update, organize, and add
 thanks,
 mike
 
+## How to Contribute to these Notes
+[put some instructions on how public folks can contribute notes]
+[it should involve steps on how to make a branch, and submit a "merge to main branch" for review]
+
+## WIP for this branch
+* [X] add: speaker bolt/hardware info
+* [X] add: speaker yoke measurements
+* [X] add: to MIDI/show control notes which consoles/devices can power a MIDI Solutions Quadra merge?
+* [X] add: kevin's weird incremented midi note from soldiers play tour
+* [ ] add: sam's reverb patching to QLab ref notes
+* [ ] add: shop passwords from keving email?
+* [ ] add: mega claw/clamp measurements
+* [X] add speaker yoke measurements
+	* center of rotation to top of yoke
+* [X] remove venue combo info
+* [ ] question: what's the most useful way to convey trim height of speakers?
+	* top of speaker to grid?
+	* bottom of speaker to deck?
+	* for trapeze: grid to trapeze pipe?
+	* for speakers hung against walls/scenery: mount/clamp point to deck?
+
 ## Table Of Contents
 
 ### Facilities
@@ -29,11 +50,11 @@ mike
 [CCTV Cameras that don't suck](ref_cameras.md)      
 [Com](ref_com.md)  
 [Connector Pinouts](ref_connector_pinouts.md)  
-[Go button](ref_go_button.md)  
 [Truss](ref_truss.md)  
 [Road cases](ref_road_cases.md)  
 [Rigging](ref_rigging.md)  
-[Personal Monitoring](ref_personal_monitoring.md)      
+[Personal Monitoring](ref_personal_monitoring.md)  
+[Speaker Specs](ref_speaker_specs.md)		      
 
 ### Perishables & Where to find them
 [Perishables](ref_perishables.md)  
@@ -42,8 +63,9 @@ mike
 * [rigging supplies](https://github.com/MIDIMinion/sound_reference/blob/deyo-branch-1/ref_perishables.md#rigging-supplies--tools)
 
 ### Software
-[QLab](ref_qlab.md)  
-[Minotaur](ref_minotaur.md)  
+[QLab - figure53](ref_qlab.md)  
+[Go button - figure53](ref_go_button.md)  
+[Minotaur - Daniel Lundberg](ref_minotaur.md)  
 
 ### Process
 [What to include in a workbook](ref_workbooks.md)
@@ -68,7 +90,7 @@ mike
 [Useful numbers to know about electrical power](ref_power.md)  
 [Hanging an array](ref_arrays.md)  
 [Math pertaining to sound](ref_soundmaths.md)  
-[Doing a show outdoors](ref_outdoor_shows.md)
+[Doing a show outdoors](ref_outdoor_shows.md)  
 [Mic'ing musical instruments](ref_micing_instruments.md)
 
 [Novel craftsmanship](ref_clever_sound_things.md)

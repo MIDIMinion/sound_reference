@@ -8,8 +8,8 @@ New York, NY 10019
 * Racks can't be taller than 77" to fit through all doors vertical
     * 87" to fit below HVAC in SR jump
 ## Power
-* 100 AMP Company siwtch SL 
-* Fuese for lights on Company switch offten burn out doesn't mean company switch doesn't have power 
+* 100 AMP Company switch SL 
+* Fuese for lights on Company switch often burn out doesn't mean company switch doesn't have power 
 * Main Breaker located in electrical closet next to Stage 3 backstage door. Panel on top left breaker "S-2" (This is just in case always call NWS facilitys first)
 
 ## Rigging

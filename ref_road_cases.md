@@ -13,9 +13,9 @@ W x D x H
     * just an all around useful roadcase!
 * Sammie: 39" x 24" x 31"
     * same as Utility cases, I believe
-* Cube: ? x ? x ?
+* Cube: 32" x 30" x 34"
     * useful for bundles, mic hardware, some small speakers
-* Olympic style workbox: ?" x ?" x ?"
+* Olympic style workbox: 30" x 30" x 50"
 * ISO (from Merrily 2022) 22" x 35" x 44"
 * PD (from Merrily 2022) 22" x 30" x 40"
 
@@ -29,3 +29,28 @@ W x D x H
 * Diamond: 43.5" x x ?
 * single cube: 30" x 22.5" x 30"
 * double cube: 45" x " 30" x 30"
+
+## From Minotaur
+
+## Console Cases
+* DiGiCo 007: 43" x 24" x 49"
+* DiGiCo SD10-24: ?" x ?" x ?"
+* DiGiCo SD7: 64" x 24" x 49"
+* Yamaha CL5: 47" x 21" x ?"
+
+### Masque
+* Cube: 32" x 30" x 29"
+* Double Diamond: 48" x 30" x 37"
+* Grey: 38" x 26" x 31"
+* Sammy: 24" x 39" x 36"
+* 
+
+### PRG
+* Big Cube: 30" x 30" x 37"
+* Cadillac: 45" x 30" x 37"
+* Double: 45" x 30" 30"
+* Sammy: 24" x 39" x 37"
+
+### Sound Associates
+* Cube: 33" x 30" x 30"
+* Grey: 48" 26" 34"

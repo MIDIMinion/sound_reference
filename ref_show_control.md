@@ -67,6 +67,12 @@
 
 ## MIDI
 
+### Weird MIDI Encounters
+* console sending Note messages into a midi solutions thru, then into two MIDI Sport 4x4's for main and redundant QLab rigs. Backup rig was receiving a different Note message than the main rig. Swapping the USB A>B cable on the backup rig's MIDI sport seemed to fix the problem
+
+## Devices that can power MIDI Solutions Quadra Merges
+* CL3/CL5 consoles
+
 ### JL Cooper MLA's
 * these can only be used in transmitting/receiving pairs
 	* the MLA converts MIDI to a different serial protocol/signal type before transmission. the receiving MLA converts it back to MIDI
