@@ -50,7 +50,6 @@ mike
 [CCTV Cameras that don't suck](ref_cameras.md)      
 [Com](ref_com.md)  
 [Connector Pinouts](ref_connector_pinouts.md)  
-[Go button](ref_go_button.md)  
 [Truss](ref_truss.md)  
 [Road cases](ref_road_cases.md)  
 [Rigging](ref_rigging.md)  
@@ -64,8 +63,9 @@ mike
 * [rigging supplies](https://github.com/MIDIMinion/sound_reference/blob/deyo-branch-1/ref_perishables.md#rigging-supplies--tools)
 
 ### Software
-[QLab](ref_qlab.md)  
-[Minotaur](ref_minotaur.md)  
+[QLab - figure53](ref_qlab.md)  
+[Go button - figure53](ref_go_button.md)  
+[Minotaur - Daniel Lundberg](ref_minotaur.md)  
 
 ### Process
 [What to include in a workbook](ref_workbooks.md)
