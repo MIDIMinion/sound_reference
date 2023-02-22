@@ -13,7 +13,7 @@
     * leaves out of gate 3xx?
     * 3 zone fare
 * Return Trip: Rutherford Rail to NY Penn, transfer at Secaucus
-    * leave shop at: [time]
+    * for the 4:50pm train, leave shop at: 4:30pm
 
 ## Shop Reps & Staff
 * Cami Letrick - Project Manager

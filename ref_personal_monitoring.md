@@ -1,7 +1,7 @@
 # Personal Monitoring - Reference Notes
 
 ## Aviom
-* Aviom-16ii's don't pass power.chaining them together will pass A-net, but not power
+* Aviom-16ii's don't pass power. chaining them together will pass A-net, but not power
 * no matter your A-Net distribution plan, pack 1-2 power supplies
 
 ## Allen & Heath ME1
