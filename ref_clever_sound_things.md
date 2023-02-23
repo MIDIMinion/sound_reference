@@ -1,3 +1,4 @@
+# Clever Sound Things - Reference Notes
 * combo cable distro box
     * 2RU rack with a 6pr/9pr panel and powercon distro in it
     * bolt a C-clamp to it and run power & mult to it up in the grid, then break out to combo cables
