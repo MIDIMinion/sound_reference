@@ -5,13 +5,13 @@
 ## Clamps & Claws
 *measurements are from the center of the pipe to the flat surface of the clamp that touched the yoke*
 * Mega-Claw: 3"
-* Mega-Clamp: ???
+* Mega-Clamp: TBD
 * ETC C-clamp: 5"
 
 
 ## Speakers in Yokes
 * Meyer MUB-X40 (masque custom): 11.5" (?? need to double check this)
-* Meyer MUB-UPA (masque custom): 
+* Meyer MUB-UPA (masque custom): TBD
 
 
 ## Trapeze
@@ -57,8 +57,8 @@
 ### Masque Custom Yokes
 * UPQ vertical: 20.5"
 * UPJ horizontal: 7.25"
-* UPJ vertical:
-* UPA horizontal:
+* UPJ vertical: TBD
+* UPA horizontal: TBD
 * UPA vertical: 16.25"
 * UP4-XP: 4 15/16", 4 15/16"
 * MM4: 2.75", 3.5"
@@ -72,28 +72,3 @@
 *there are several EAW yoke manufacturers. I didn't know which was which at the time of measuring, so I used "variants" to denote different yokes*
 * JF80 yoke, variant A: 10.25"
 * JF80 yoke, variant B: 6.75", 5.75", 4.75"
-
-
-## Speaker Bolts
-*who hasn't needed to run to the local hardware store in order to finish hanging speakers, right!? right...?*
-
-*data in process of being moved to ref_speaker_specs.md*
-
-### d&b
-* E0: M10
-* E3: M8
-* E4: M10
-* E5: M10
-* E6: M8
-* E8: M10
-* E12/D: M10
-* V7P/Vi7P: M10
-* V10P/Vi10P: M10
-* Y7P/Yi7P: M10
-* Y10P/Yi10P: M10
-
-
-### EAW
-* JF-200/z: 3.8"-16
-* JF-80/z: 1/4"-20
-* JF60: 1/4"-20

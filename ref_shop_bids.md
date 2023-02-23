@@ -3,7 +3,8 @@
 ### Starting a Shop Bid for Masque
 * send to Scott Kalata: Rentals@masquesound.com
 * send to Cami Leterick: camiletrick@masquesound.com
-
+* send to Leslie Stong: LeslieStong@masquesound.com
+* send to Jason McKenna: jasonmckenna@masquesound.com
 
 ### Starting a Shop Bid for PRG
 * send to Erin Cummings: ECummings@prg.com
