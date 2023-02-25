@@ -1,5 +1,8 @@
 # An ASD's Guide to ASD'ing - Reference Notes
 
+## Are you an Off-Braodway Assistant or Associate Designer?!
+Take a look at [OBADAG's](https://www.assistantdesign.org/) website about USA 829's CBA. If you're doing a show at an off-broadway league theater, you may be able to join 829's Member Candidate Program.
+
 ## Initial Talks with the Designer
 
 ### Scope and Scale

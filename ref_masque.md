@@ -68,5 +68,4 @@
 * Tell shop rep approx. how many bundles so they can plan for bundle labor
 
 ## Fun
-* Ask Jim for rollercoaster tycoon to be put on the shop computers
 * It's $80 to buy bagels for the whole shop for a morning. Talk to Leslie about organizing bagels, get her cash before hand 

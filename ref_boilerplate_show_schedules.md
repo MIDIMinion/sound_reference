@@ -1,23 +1,30 @@
 # Boilerplate Show Schedules
 
+*this info is an approximation, more data to follow*
+
+
+
 ## Production Audio Supervisor - Play
-* Shop Prep: 1 week
-    * 5 days @ 8 hours
-    * Total hours: 40
-* Load In: 1 week
-    * 4 Days @ 8 hours
-    * Total hours: 32
-* Quiet Time: 1 day
-    * Two @ 4hr calls
-    * Total Hours: 8
-* Tech: 
+|Phase of Production|Days|Hours/Call|Totals|
+|-------------------|----|----------|------|
+|Pre-Production     |2   |8         |16    |
+|Shop Prep          |3   |8         |24    |
+|Load In            |5   |8         |40    |
+|Tech               |5   |6         |30    |
+|Previews           |5   |6         |30    |
+|Strike Prep        |2   |8         |16    |
+|Strike             |4   |8         |32    |
+|**Total:**             |    |          |188   |
 
 
 ## Production Audio Supervisor - Musical
-* Shop Prep: 2 weeks
-    * 5 days/week @ 8 hours
-    * total: 80
-* Load In: 1 week
-    * 5 days @ 8 hours
-    * total: 40
-* Tech
+|Phase of Production|Days|Hours/Call|Totals|
+|-------------------|----|----------|------|
+|Pre-Production     |3   |8         |24    |
+|Shop Prep          |10  |8         |80    |
+|Load In            |10  |8         |80    |
+|Tech               |8   |6         |48    |
+|Previews           |5   |6         |30    |
+|Strike Prep        |2   |8         |16    |
+|Strike             |5   |8         |40    |
+|**Total:**             |    |          |318   |
