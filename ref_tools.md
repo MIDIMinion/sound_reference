@@ -10,3 +10,13 @@
 * Tyler 24" Hand Swager - $130
     * https://tinyurl.com/3buxtvfa
 * [Go-No-Go]
+
+## Tone/Noise Generators
+* Sonect Sound Bullet - $299
+    * https://tinyurl.com/3v7ev2ss
+* Whirlwind QBox - $281
+    * https://tinyurl.com/2p8rdrht
+* Shure A15TG - $135
+    * https://tinyurl.com/bdddabmz
+* RDL PT-AMG2   - $385
+    * https://tinyurl.com/yc8bbr83
