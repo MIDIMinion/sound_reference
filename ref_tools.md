@@ -20,3 +20,5 @@
     * https://tinyurl.com/bdddabmz
 * RDL PT-AMG2   - $385
     * https://tinyurl.com/yc8bbr83
+* Rolls MO2020se Testocillator Sine/Square Wave Generator - $109
+    * https://tinyurl.com/37zv4sx5
