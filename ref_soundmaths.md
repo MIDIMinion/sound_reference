@@ -11,6 +11,9 @@
     * P = E^2 / R
     * 100W = 28.3^2 / 8 ohms
 
+## Speed of Sound
+* 1m/3ms (1.1 ft/ms)
+
 ## parallel speaker impedance
 * 1/((1/z) + (1/z) + (1/n))
     * ex. 3 @ 8 ohm speakers
