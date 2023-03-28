@@ -63,9 +63,15 @@
 * Mostly 1RU stek panels, but some 2RU UCP frames
 * G1, G2, & G3 block tails
 * Masque doesn't do 12pr mult, 11pr instead
+* Steck rails and steck'd connectors are à la carte. 6pr and 19pr panels should be included in a bid.
+* As of 3-28-23, Masque stocks Meyer Galaxy 816, but not 408.
 
 ## Good Practice
-* Tell shop rep approx. how many bundles so they can plan for bundle labor
+* Tell shop rep approx. how many bundles so they can plan for bundle labor 
+* The computers dept will install exactly what programs you ask on a computer. If you provide an IP scheme, they can also configure your computers to have said IPs before they deliver to your zone. 
 
 ## Fun
 * It's $80 to buy bagels for the whole shop for a morning. Talk to Leslie about organizing bagels, get her cash before hand 
+* Masque cleans out their fridge every Friday 
+* There are often fresh eggs for sale if you know who to talk to  
+* "Steck" is called "steck" because Paul C Steck Inc of Springfield NJ was the original manufacturer. 
