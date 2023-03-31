@@ -1,9 +1,23 @@
 # Minotaur - Reference Notes
 
+### Shortcuts
+* Cmd + E = delete
+* Cmd + S = split record (equipment lists)
+* Cmd + J = show all
+* Cmd + T = omit record from view
+* Cmd + up/down = cycle through pages in print preview
+* Cmd + I = inspector (color code is the first field)
+* Cmd + D = duplicate
+* Cmd + Shift + D = duplicate a number of times
+* Cmd + Shift + C = cables
+* Cmd + Shift + L = lines
+* Cmd + Shift + T = tails
+
 ### File Structures
 * a .mino file needs the following folders to exist in whatever directory it's in, in order to not throw a bunch of error prompts
 	* Minotaur CAD Links
 	* Minotaur Backup
+	* MInotayr Previous Revisions
 
 ### Making NL4 A/B Y Cables
 * Cable Type Default Values

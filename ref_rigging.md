@@ -2,7 +2,27 @@
 
 *need some help organizing this one*
 
-## Clamps & Claws
+## Weights
+* Schedule 40 Steel 1.5" pipe weighs 2.4lbs per foot (on average)
+* Swivel Cheeseboro (truss):
+* Swivel Cheeseboro (sched 40):
+* Rigid 90º Cheeseboro (truss):
+* Rigid 90º Cheeseboro (sched 40):
+* ETC C-Clamp:
+* Mega Claw: 2lbs
+* Mega Clamp: 0.85lbs
+* Mega Coupler w/ Eye Nut: 1.3lbs
+* Mega Coupler Swivel: 2.2lbs
+* Mega Coupler 90º Rigid: 2.2lbs
+
+## Working Load Limits (WLL)
+* Mega Claw:1,100lbs
+* Mega Clamp: 600lbs
+* Mega Coupler w/ Eye Nut: 1,100lbs
+* Mega Coupler Swivel: 1,100lbs
+* Mega Coupler 90º Rigid: 1,100lbs
+
+## Clamps & Claws Dimensions
 *measurements are from the center of the pipe to the flat surface of the clamp that touched the yoke*
 * Mega-Claw: 3"
 * Mega-Clamp: TBD
@@ -72,3 +92,7 @@
 *there are several EAW yoke manufacturers. I didn't know which was which at the time of measuring, so I used "variants" to denote different yokes*
 * JF80 yoke, variant A: 10.25"
 * JF80 yoke, variant B: 6.75", 5.75", 4.75"
+
+
+## Sources
+* https://www.thelightsource.com/products/

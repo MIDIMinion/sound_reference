@@ -2,48 +2,93 @@
 
 W x D x H
 
-### Masque Sound
+## Masque Sound
+
+### Boxes
 * Diamond: 47.5" x 29.5" x 36"
-    * useful for bundles and some larger speakers
 * Utility: 36.5" x 22" x 35"
-    * can also come with or without trays
-    * useful for small gak like cameras, computer bits and bobs, microphones, some small speakers, some computer monitors
 * Grey: 38" x 26.5" x 31.5"
-    * useful for speaker hardware, mic hardware, individual cables, speakers,
-    * just an all around useful roadcase!
 * Sammie: 39" x 24" x 31"
-    * same as Utility cases, I believe
 * Cube: 32" x 30" x 34"
-    * useful for bundles, mic hardware, some small speakers
+
+### Racks & Surrounds
+*more info needed*
+
+### Misc.
 * Olympic style workbox: 30" x 30" x 50"
+
+### Power/PDs
 * ISO (from Merrily 2022) 22" x 35" x 44"
 * PD (from Merrily 2022) 22" x 30" x 40"
 
-### Sound Associates
+## Sound Associates
+
+### Boxes
 * Cube: 33" x 30" x 33.5"
 * Grey: 48" x 25.5" x 34"
     * with lid folded open, depth = 28.5"
 
+### Racks & Surrounds
+*more info needed*
 
-### PRG
+
+## PRG
+
+### Boxes
 * Diamond: 43.5" x x ?
 * single cube: 30" x 22.5" x 30"
 * double cube: 45" x " 30" x 30"
 
-## From Minotaur
+### Racks & Surrounds
+* 16U x 24" Surround: 24.5" x 32" x 40.75"
+* 20U Rack Surround: 24.5" x 32.25" x 47.5"
+* 20U Rack Surround: 24.5" x 36" x 48"
+* 44U x 25" Install Rack: 24.5" x 32.5" x 84"
+* 44U x 37" Instal lRack: 24.5" x 29" x 84"
+
+### Speaker Cases
+* UPQ 2x, vertical: 22.5" x 44.5" x 38.5"
+* UPA 2x, vertical: 22" x 36.5" x 33.25"
+* UPA & Yokes 2x, vertical: 22.5" x 45" x 30.75"
+* UPJ 2x, vertical: 30" x 18.75" x 31"
+* UPJ 2x, horizontal: 38" x 27.25" x 22.5"
+* UPM 2x, vertical: 16.25" x 25" x 27"
+* Genelec 3080: 11.75" x 16.25" x 12.25"
+* 900-HP Cart: 23.75" x 45.75" x ?"
+* 1100-LFC Cart: 35" x 56.25" x ?"
+* MINA Cart: 18.5" x 24" x ?"
+
+### Speaker Carts
+* Hardware Case: 48.25" x 25.5" x 33.5"
+* Mina Grid 2x, vertical: 15" x 25.25" x 40.5"
+
+### Console Cases
+* Yamaha QL1 (suitcase style): 23.5" x 18" x 36"
+* SD10: 19.5" x 62" x 45.75"
+
+### Power/PD
+* L6-20 PD: 21" x 32.75" x 21.5"
+
+### Misc.
+* Unit Box: 45.5" x 30" x 72.75"
+
+
+
+
+
+# From Minotaur
 
 ## Console Cases
 * DiGiCo 007: 43" x 24" x 49"
-* DiGiCo SD10-24: ?" x ?" x ?"
+* DiGiCo SD10-24: ?" x ?" x 46"
 * DiGiCo SD7: 64" x 24" x 49"
-* Yamaha CL5: 47" x 21" x ?"
+* Yamaha CL5: 47" x 21" x 46"
 
 ### Masque
 * Cube: 32" x 30" x 29"
 * Double Diamond: 48" x 30" x 37"
 * Grey: 38" x 26" x 31"
 * Sammy: 24" x 39" x 36"
-* 
 
 ### PRG
 * Big Cube: 30" x 30" x 37"
