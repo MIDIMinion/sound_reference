@@ -4,9 +4,7 @@
 
 ## Weights
 * Schedule 40 Steel 1.5" pipe weighs 2.4lbs per foot (on average)
-* Swivel Cheeseboro (truss):
 * Swivel Cheeseboro (sched 40):
-* Rigid 90º Cheeseboro (truss):
 * Rigid 90º Cheeseboro (sched 40):
 * ETC C-Clamp:
 * Mega Claw: 2lbs
