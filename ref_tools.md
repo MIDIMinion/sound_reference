@@ -22,3 +22,9 @@
     * https://tinyurl.com/yc8bbr83
 * Rolls MO2020se Testocillator Sine/Square Wave Generator - $109
     * https://tinyurl.com/37zv4sx5
+
+## Testers
+* Sperry Instruments TT64202 RJ45 & BNC Tester - $42.39
+    * https://tinyurl.com/bdem986k
+    * you'll also wan't these adapters - $8
+        * https://tinyurl.com/2hw5e6rz

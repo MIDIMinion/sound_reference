@@ -7,18 +7,25 @@
 * Swivel Cheeseboro (sched 40):
 * Rigid 90º Cheeseboro (sched 40):
 * ETC C-Clamp:
-* Mega Claw: 2lbs
+* MWB Mega Claw: 2lbs
 * Mega Clamp: 0.85lbs
-* Mega Coupler w/ Eye Nut: 1.3lbs
-* Mega Coupler Swivel: 2.2lbs
-* Mega Coupler 90º Rigid: 2.2lbs
+* MLBSE Mega Coupler w/ Eye Nut: 1.3lbs
+* MLSB Mega Coupler Swivel: 2.2lbs
+* ML9B Mega Coupler 90º Rigid: 2.2lbs
+* MLB Mega Coupler: 1.14lbs
+* MSCB Mega Slim Coupler: 0.65lbs
+* SLCB Mega Slim Claw:
 
 ## Working Load Limits (WLL)
 * Mega Claw:1,100lbs
 * Mega Clamp: 600lbs
-* Mega Coupler w/ Eye Nut: 1,100lbs
-* Mega Coupler Swivel: 1,100lbs
-* Mega Coupler 90º Rigid: 1,100lbs
+* MLBSE Mega Coupler w/ Eye Nut: 1,100lbs
+* MLSB Mega Coupler Swivel: 1,100lbs
+* ML9B Mega Coupler 90º Rigid: 1,100lbs
+* MLB Mega Coupler (1/2" and 3/8"): 1,100lbs
+* MLB Mega Coupler (1/4"): 450lbs 
+* MSCB Mega Slim Coupler: 500lbs
+* SLCB Mega Slim Claw: 600lbs
 
 ## Clamps & Claws Dimensions
 *measurements are from the center of the pipe to the flat surface of the clamp that touched the yoke*
