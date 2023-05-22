@@ -1,35 +1,54 @@
 # Road Cases - Reference Notes
 
+*measurements for roadcases in italics are rounded up to the nearest 1/2". non-italics roadcases are updated and measurements are rounded up to the nearest 1/4"*
+
 W x D x H
 
 ## Masque Sound
 
 ### Boxes
-* Diamond: 47.5" x 29.5" x 36"
-* Utility: 36.5" x 22" x 35"
-* Grey: 38" x 26.5" x 31.5"
-* Sammie: 39" x 24" x 31"
-* Cube: 32" x 30" x 34"
+* Diamond: 48" x 29.75" x 36.5"
+    * updated 5/21/23, measurements rounded up to the nearest 1/4"
+* *Utility: 36.5" x 22" x 35"*
+* *Grey: 38" x 26.5" x 31.5"*
+* *Sammie: 39" x 24" x 31"*
+* *Cube: 32" x 30" x 34"*
 
 ### Racks & Surrounds
 *more info needed*
 
-### Misc.
-* Olympic style workbox: 30" x 30" x 50"
+### Speaker Carts
+* Meyer 900-LFC: 29.75" x 28"
+
+### Console Cases
+* Allen & Heath Avantis: 39.25" x 14.25" x 38"
 
 ### Power/PDs
-* ISO (from Merrily 2022) 22" x 35" x 44"
-* PD (from Merrily 2022) 22" x 30" x 40"
+* ISO: 22" x 35.5" x 44"*
+* *Large PD: 22" x 30" x 40"*
+* Small PD: 22.5" x 31" x 31.25"
+
+### Misc.
+* *Olympic style workbox: 30" x 30" x 50"*
+
+
+
+
 
 ## Sound Associates
 
 ### Boxes
-* Cube: 33" x 30" x 33.5"
-* Grey: 48" x 25.5" x 34"
+* *Cube: 33" x 30" x 33.5"*
+* *Grey: 48" x 25.5" x 34"*
     * with lid folded open, depth = 28.5"
 
 ### Racks & Surrounds
 *more info needed*
+
+
+
+
+
 
 
 ## PRG

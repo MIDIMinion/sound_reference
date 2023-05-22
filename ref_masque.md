@@ -58,6 +58,7 @@
 
 
 ## Keep in Mind
+* Masque **does not** stock a lot of 75' cable (mostly mult). If you're thinking of using 75' cable in your system, consider bumping it up to 100'
 * Masque **does not** rent chain motors
 * Masque **does not** rent sandbags
 * Mostly 1RU stek panels, but some 2RU UCP frames
