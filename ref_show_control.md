@@ -16,8 +16,8 @@
 * If you're using unmanaged switches, wherever possible, have a dedicated OSC network
     * non-OSC operations (like screen sharing, file sharing, etc) should happen on a different network. It doesn't take long to max out your gigabit switch when moving files and video around
 * have as few hops through switches as possible
-* when QLab triggers lights via OSC, send messages as a different user than the baked op. Otherwise, your OSC commands will clear the command line
-    * Evan Cook knows more about this
+* when QLab triggers lights via OSC, send messages as a different user than the board op. Otherwise, your OSC commands will clear the command line
+    * Evan Cook suggests: /eos/user/99/cue/{your target cue list here}/{your target cue number here}/fire
 
 ### Triggering QLab from Eos via OSC
 * don't
@@ -56,6 +56,11 @@
 
 ### Galaxy 816
 * port: 25004
+* Mute Outputs:
+	* /processing/output/1/mute 1
+	* /processing/output/([1-9])/mute 1 and another cue that says /processing/output/(1[0-6])/mute 1
+* Unmute Outputs:
+  	* /processing/output/1/mute 0
 * the galaxy assumes that any values sent to it via OSC are in sample rates at 96kHz.
 	* if you're trying to set delay times, multiply the value in ms you WANT by 96. the resulting number is the value (in samples) that should be sent to the galaxy
 		* ex. 80ms * 96 = 7680 (send this value to galaxy)
