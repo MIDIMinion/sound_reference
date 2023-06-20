@@ -1,6 +1,7 @@
 # Rigging - Reference Notes
+*improper rigging can be dangerous, and introduces serious risk to cast, crew, audience, everyone! know your Working Load Limits (WLL), know your Min. Breaking Weights (MBW), and know your safety margins. When in doubt, defer to an expert. these notes are **NOT** a substitute for proper training or experience*
 
-*need some help organizing this one*
+*this page needs a little more organization*
 
 ## Weights
 * Schedule 40 Steel 1.5" pipe weighs 2.4lbs per foot (on average)
