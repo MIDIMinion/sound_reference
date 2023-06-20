@@ -2,6 +2,9 @@
 121 Christopher St.
 New York, NY 10014
 
+## Seats
+* 299
+
 ## Notes
 * no elevator up to balcony
 * booth for light board op is in the back of the balcony

@@ -31,6 +31,7 @@
 *measurements are from the center of the pipe to the flat surface of the clamp that touched the yoke*
 * Mega-Claw: 3"
 * Mega-Clamp: TBD
+* Mega-Coupler w/ Eye Nut: 
 * ETC C-clamp: 5"
 
 

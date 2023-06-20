@@ -5,6 +5,9 @@ New York, NY 10280
 
 **Crew/Staff entrance around the back, next to the garage door**
 
+## Seats
+* 357
+
 ## Cable Lengths & Paths
 * from rack position to FOH should be 100' not 150'
 * cable path from service to rack harmony position: 75'

@@ -2,6 +2,9 @@
 38 Commerce St.
 New York, NY 10014
 
+## Seats
+* 
+
 ## Notes
 * Tall grid with a catwalk on the DS edge
 * In house sound storage in the basement beneath the stage

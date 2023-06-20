@@ -1,5 +1,7 @@
 # Tuning - Reference Notes
 
+*these notes are ooooold, and need some work*
+
 ### Arrays
 * Start with your box that has the farthest throw (box a)
 * EQ it to your desired freq response.

@@ -2,6 +2,9 @@
 480 W 42nd St.
 New York, NY 10036
 
+## Seats
+* 294
+
 ## Quirks
 * you can't gaff tape to anything, you have to put down painters tape first, then gaff to that
 * there's an in-house sound system. UPQ/UPA clusters on left and right, UPA on center. The left/right clusters can't be struck, but the center UPA can
