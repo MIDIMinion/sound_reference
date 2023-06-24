@@ -9,6 +9,7 @@
     * Violin: DPA VC4099
     * Viola: (research these clips, slightly bigger than violin)
     * Cello: DPA CC4099
+    ![4099_cello](photos/4099_cello.png)
     * Upright Bass: DPA BC4099
     * Accordian: DPA AC4099
 
