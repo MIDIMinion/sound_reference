@@ -7,8 +7,9 @@
 
 
 **DPA 4061**
+
 ![4061](photos/a2_dpa_4061.jpeg)
-*soft-boost on the left, high-boost grid on the right*
+*left: soft boost, right: high-boost*
 
 **DPA 4661**
 ![4661](photos/a2_dpa_4661.jpeg)
