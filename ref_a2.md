@@ -9,10 +9,12 @@
 **DPA 4061**
 
 ![4061](photos/a2_dpa_4061.jpeg)
+
 *left: soft boost, right: high-boost*
 
 **DPA 4661**
 ![4661](photos/a2_dpa_4661.jpeg)
+
 *top 2 are normal spl, bottom his loud spl*
 
 **DPA 6061**
