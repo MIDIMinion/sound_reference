@@ -5,7 +5,7 @@
 *pictures of various mic elements*
 
 **DPA 4061**
-![4061](photos/a2_dpa_4061.jpeg)
+![4061](photos/a2_dpa_4061.jpg)
 
 **DPA 6061**
 ![6061](photos/a2_dpa_6061.jpeg)
@@ -16,11 +16,9 @@
 **Sennheiser MKE 1**
 ![MKE 1](photos/a2_senn_mke_1.jpeg)
 
+**Point Source CO-8WL**
+![PSCO8WL](photos/a2_ps_series8.jpeg)
 
-
-
-
-* [ ] Point Source CO-8WL-SK-BE
 
 ## A2 Tools
 *useful tools?*
