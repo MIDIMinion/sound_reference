@@ -4,8 +4,15 @@
 ## Mic Elements
 *pictures of various mic elements*
 
+
+
 **DPA 4061**
 ![4061](photos/a2_dpa_4061.jpeg)
+*soft-boost on the left, high-boost grid on the right*
+
+**DPA 4661**
+![4661](photos/a2_dpa_4661.jpeg)
+*top 2 are normal spl, bottom his loud spl*
 
 **DPA 6061**
 ![6061](photos/a2_dpa_6061.jpeg)
@@ -22,3 +29,6 @@
 
 ## A2 Tools
 *useful tools?*
+
+## A2 Paperwork
+*anyone have any especially handy A2 paperwork they'd like to share?*
