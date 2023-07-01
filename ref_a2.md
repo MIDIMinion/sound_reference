@@ -5,7 +5,7 @@
 *pictures of various mic elements*
 
 **DPA 4061**
-![4061](photos/a2_dpa_4061.jpg)
+![4061](photos/a2_dpa_4061.jpeg)
 
 **DPA 6061**
 ![6061](photos/a2_dpa_6061.jpeg)
