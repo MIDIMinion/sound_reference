@@ -1,4 +1,4 @@
-# Rios - Reference Notes
+# Yamaha Rios - Reference Notes
 
 ## Error Messages
 *If these errors have occured, the device will not operate*
