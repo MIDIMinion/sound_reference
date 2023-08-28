@@ -29,6 +29,17 @@
 3. set the transmit port to 53000
 * also: "Implicit OSC Output"
 * read up in EOS manual on "OSC Filter Out"
+4. in the Eos OSC Setup menu, find "OSC Cue Send String"
+	* this is basically a custom string you can have eos send with every "fire"
+5. enter the string "/cue/%1/start"
+	* %1 acts as a variable to send the cue number of the fired lighting cue in the OSC string
+	* other variables are available:
+		* %1 - cue number
+		* %2 - cuelist number
+		* %3 - cue whole number only (i.e. if it's cue 17.5, send only 17)
+		* %4 - cue point number only (i.e. if it's cue 17.5, send only 5)
+		* %5 - cue label
+		* *courtesy of [ETC](https://tinyurl.com/45awbhfa)*
 
 ##### Clearing out Junk OSC from EOS
 * [Eos Family Console Forum](https://tinyurl.com/uf6bex4w)
