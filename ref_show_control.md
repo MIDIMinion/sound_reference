@@ -26,6 +26,8 @@
 	* i've found that setting the lighting console to be the highest possible IP of all of the OSC devices is helpful
 2. set the transmit IP to X.X.X.255
 	* this IP will broadcast to all addresses in the IP range
+	* **note:** as of Eos 2.8, you can add multiple IP addresses to the transmit IP field, separating them with a space
+	* Prior versions of Eos may need to use a third party application like OSC Router
 3. set the transmit port to 53000
 * also: "Implicit OSC Output"
 * read up in EOS manual on "OSC Filter Out"
@@ -40,6 +42,7 @@
 		* %4 - cue point number only (i.e. if it's cue 17.5, send only 5)
 		* %5 - cue label
 		* *courtesy of [ETC](https://tinyurl.com/45awbhfa)*
+		* there's more good info [here](https://tinyurl.com/3ft3d45h)
 
 ##### Clearing out Junk OSC from EOS
 * [Eos Family Console Forum](https://tinyurl.com/uf6bex4w)
