@@ -40,31 +40,24 @@
 
 
 ##### Tape
-* Scotch Super 33+ - $5.56
-	* https://tinyurl.com/3nf57mbv
+* [Scotch Super 33+](https://tinyurl.com/3nf57mbv) - $5.56
 	* 3/4" x 66ft
 	* black
 	* also available in cases of 10
-* Scotch 35 - $5.28
-	* https://tinyurl.com/7tcwf7w5
+* [Scotch 35](https://tinyurl.com/7tcwf7w5) - $5.28
 	* 3/4" x 66ft
 	* blue, brown, green, grey, orange, pink, red, purple, white, yellow
 	* also available in cases of 10
 	* also offers mix and match colors to "build-a-case"
-* Pro Gaffers Tape - $22.50
-	* https://tinyurl.com/m4brmctb
+* [Pro Gaffers Tape](https://tinyurl.com/m4brmctb) - $22.50
 	* 2" x 55 yd
 	* also available in cases of 8, 12, 16, 24, 48
-* Friction Tape - Duck Brand 393150 - $5/roll
-	* https://tinyurl.com/yce9xr46
+* [Friction Tape - Duck Brand 393150](https://tinyurl.com/yce9xr46) - $5/roll
 	* also available in cases of 12 for a slight discount
 	* 3/4" x 60'
-* Excell tape dispenser - $24
-    * https://tinyurl.com/4p9w7edx
-* 3/4" Clear Vinyl Tape - $1.73
-	* https://tinyurl.com/2p8cs7c5
-* 2" Clear Vinyl Tape - $4.46
-	* https://tinyurl.com/4nfkhwhu
+* [Excell tape dispenser](https://tinyurl.com/4p9w7edx) - $24
+* [3/4" Clear Vinyl Tape](https://tinyurl.com/2p8cs7c5) - $1.73
+* [2" Clear Vinyl Tape](https://tinyurl.com/4nfkhwhu) - $4.46
 
 
 
@@ -79,132 +72,86 @@
 	* beige & black hellerman sleeves
 * Benecreate Aluminum Craft Wire
 	* for building ear rigs
-* Telex Plastic-Covered Metal Earloop - $12
-	* https://tinyurl.com/mu6wsyuh
+* [Telex Plastic-Covered Metal Earloop](https://tinyurl.com/mu6wsyuh) - $12
 	* Masque also carries these
-* Rust-Oleum Never Wet - $16
-	* https://tinyurl.com/2e4pjdk7
-* Toupee Clips - $7
-	* https://tinyurl.com/5yhbbudw
+* [Rust-Oleum Never Wet](https://tinyurl.com/2e4pjdk7) - $16
+* [Toupee Clips](https://tinyurl.com/5yhbbudw) - $7
 	* Masque also carries these
 	* small & large
 	* black, blonde, dark brown, medium brown
-* Prym Elastic Cord - $5
-	* https://tinyurl.com/yt8cvdbn
+* [Prym Elastic Cord](https://tinyurl.com/yt8cvdbn) - $5
 	* black & white
-* Skin Prep, spray bottle - $12
-	* https://tinyurl.com/2zu6erds
-* 3M Blenderm - $13
-	* https://tinyurl.com/3nb6ha7t
-* Locktite Superglue - $5
-	* https://tinyurl.com/yktertrv
-* Clear Nail Polish, Matte - $5
-	* https://tinyurl.com/yeyudhcv
-* Floral Wire, 22 guage - $10
-	* https://tinyurl.com/3bb8utrr
-* 3M Transpore - $16
-	* https://tinyurl.com/yacdj5f2
-* Moleskine Roll - $12
-	* https://tinyurl.com/bdz9ejc8
-* Unisolve wipes - $9
-	* https://tinyurl.com/58vejdb5
-* Tegaderm Roll - $21
-	* https://tinyurl.com/6nd5rcyb
-* Butterfly Hair Clips - $6
-	* https://tinyurl.com/ymjy67h8
-* Cotton Pads - $10
-	* https://tinyurl.com/amd3j345
-* Unisolve bottle - $14
-	* https://tinyurl.com/2kdejsnh
-* Skin Prep wipes - $9
-	* https://tinyurl.com/5xfsf7hr
-* Canned Air, 3 pack - $20
-	* https://tinyurl.com/3jdu7bu6
+* [Skin Prep, spray bottle](https://tinyurl.com/2zu6erds) - $12
+* [3M Blenderm - $13](https://tinyurl.com/3nb6ha7t)
+* [Locktite Superglue](https://tinyurl.com/yktertrv) - $5
+* [Clear Nail Polish, Matte](https://tinyurl.com/yeyudhcv) - $5
+* [Floral Wire, 22 guage](https://tinyurl.com/3bb8utrr) - $10
+* [3M Transpore](https://tinyurl.com/yacdj5f2) - $16
+* [Moleskine Roll](https://tinyurl.com/bdz9ejc8) - $12
+* [Unisolve wipes](https://tinyurl.com/58vejdb5) - $9
+* [Tegaderm Roll](https://tinyurl.com/6nd5rcyb) - $21
+* [Butterfly Hair Clips](https://tinyurl.com/ymjy67h8) - $6
+* [Cotton Pads](https://tinyurl.com/amd3j345) - $10
+* [Unisolve bottle](https://tinyurl.com/2kdejsnh) - $14
+* [Skin Prep wipes](https://tinyurl.com/5xfsf7hr) - $9
+* [Canned Air, 3 pack](https://tinyurl.com/3jdu7bu6) - $20
 
 ### Tools
-* ZTS Mini Multi Battery Load Cell Tester - $45
-	* https://tinyurl.com/3bfykvdt
-* Ultrasonic Jewelry Cleaner - $30
-	* https://tinyurl.com/mtprcmp3
-* Hellerman Tool - $67
-	* https://tinyurl.com/m7bek7f4
-* Whip Finisher - $11
-	* https://tinyurl.com/38xd8d89
+* [ZTS Mini Multi Battery Load Cell Tester](https://tinyurl.com/3bfykvdt) - $45
+* [Ultrasonic Jewelry Cleaner](https://tinyurl.com/mtprcmp3) - $30
+* [Hellerman Tool](https://tinyurl.com/m7bek7f4) - $67
+* [Whip Finisher](https://tinyurl.com/38xd8d89) - $11
 * rounded jewelers plyers
-    * for building ear rigs
 
 ### Element Coloring Supplies
 * reel color pallette (activate with 99% alcohol)
-	* fleshtone - dark: https://tinyurl.com/45tub8ps
-	* fleshtone - standard: https://tinyurl.com/2jbmknzs
-	* fleshtone - simply flesh #1: https://tinyurl.com/2p9vhyf9
+	* [dark](https://tinyurl.com/45tub8ps)
+	* [standard](https://tinyurl.com/2jbmknzs)
+	* [simply flesh #1](https://tinyurl.com/2p9vhyf9)
 
 ### Actor Mic Supplies
-* Dynarex alcohol prep pad - $6
-	* https://tinyurl.com/mryc8vdm
+* [Dynarex alcohol prep pad](https://tinyurl.com/mryc8vdm) - $6
 	* 200ct
-* Senn. 5212 Belt Pack Pouch - $28
-	* https://tinyurl.com/ptjjy22b
+* [Senn. 5212 Belt Pack Pouch](https://tinyurl.com/ptjjy22b) - $28
 
 ### Hamilton Rigs
-* steel music wire: https://tinyurl.com/3frzwc37
-* whip finisher: https://tinyurl.com/3fd62bsr
-* clear nylon tippet line: https://tinyurl.com/mry83fcv
+* [steel music wire](https://tinyurl.com/3frzwc37)
+* [whip finisher](https://tinyurl.com/3fd62bsr)
+* [clear nylon tippet line](https://tinyurl.com/mry83fcv)
 	* 3x or 4x is what you want
 
 ## Rigging Supplies & Tools
 
 ### Tools
-* Felco C7 wire cutters - $65
-    * https://tinyurl.com/2p8kn7eh
-* Tyler 8" Cable Cutter - $33
-    * https://tinyurl.com/dht6wdpu
-* Tyler 13" Cable Cutter - $86
-    * https://tinyurl.com/s5ztnyrw
-* Tyler 24" Hand Swager - $130
-    * https://tinyurl.com/3buxtvfa
+* [Felco C7 wire cutters](https://tinyurl.com/2p8kn7eh) - $65
+* [Tyler 8" Cable Cutter](https://tinyurl.com/dht6wdpu) - $33
+* [Tyler 13" Cable Cutter](https://tinyurl.com/s5ztnyrw) - $86
+* [Tyler 24" Hand Swager](https://tinyurl.com/3buxtvfa) - $130
 * [Go-No-Go]
 
 ### Thimbles
-* 1/16" AN Type Thimble - $0.62
-	* https://tinyurl.com/2tbsfy59
-* 1/8" AN Type Thimble - $0.81
-	* https://tinyurl.com/2p88es85
-* 3/16" AN Type Thimble - $1.07
-	* https://tinyurl.com/ycy2sxdz
-* 1/4" AN Type Thimble - $2.05
-	* https://tinyurl.com/yyd7usu9
+* [1/16" AN Type Thimble](https://tinyurl.com/2tbsfy59) - $0.62
+* [1/8" AN Type Thimble](https://tinyurl.com/2p88es85) - $0.81
+* [3/16" AN Type Thimble](https://tinyurl.com/ycy2sxdz) - $1.07
+* [1/4" AN Type Thimble](https://tinyurl.com/yyd7usu9) - $2.05 
 
 ### Sleeves
-* 1/16" copper swage sleeve - $0.08
-	* https://tinyurl.com/53t97y4j
-* 1/8" copper swage sleeve - $0.48
-	* https://tinyurl.com/2p8v4b2p
-* 3/16" copper swage sleeve - $1.44
-	* https://tinyurl.com/jeknaf3f
-* 1/4" copper swage sleeve - $2.10
-	* https://tinyurl.com/ud2drt53
+* [1/16" copper swage sleeve](https://tinyurl.com/53t97y4j) - $0.08
+* [1/8" copper swage sleeve](https://tinyurl.com/2p8v4b2p) - $0.48
+* [3/16" copper swage sleeve](https://tinyurl.com/jeknaf3f) - $1.44
+* [1/4" copper swage sleeve](https://tinyurl.com/ud2drt53) - $2.10
 
 ### Stops
-* 1/16" copper swage stop - $0.16
-	* https://tinyurl.com/2s4kbbuz
-* 1/8" copper swage stop - $0.38
-	* https://tinyurl.com/2p83tsa9
-* 3/16" coper swage stop - $0.50
-	* https://tinyurl.com/ye25zvn3
-* 1/4" copper swage stop - $4.00
-	* https://tinyurl.com/43pcvyyz
+* [1/16" copper swage stop](https://tinyurl.com/2s4kbbuz) - $0.16
+* [1/8" copper swage stop](https://tinyurl.com/2p83tsa9) - $0.38
+* [3/16" coper swage stop](https://tinyurl.com/ye25zvn3) - $0.50 
+* [1/4" copper swage stop](https://tinyurl.com/43pcvyyz) - $4.00
 
 ### Wire Rope
-* 1/16" x 250' 7x7 Black Galvanized Aircraft Cable - $31.85
-	* https://tinyurl.com/mrk6ebey
-* 1/8" x 250' 7x19 Black Galvanized Aircraft Cable - $62.70
-	* https://tinyurl.com/mryvettp
-* 3/16" x 250' 7x19 Black Galvanized Aircraft Cable - $102.55
-	* https://tinyurl.com/2p8693zv
-* 1/4" x 250' 7x19 Black Galvanized Aircraft Cable - $153.70
-	* https://tinyurl.com/5krj9ebn
+* [1/16" x 250' 7x7 Black Galvanized Aircraft Cable](https://tinyurl.com/mrk6ebey) - $31.85
+* [1/8" x 250' 7x19 Black Galvanized Aircraft Cable](https://tinyurl.com/mryvettp) - $62.70
+* [3/16" x 250' 7x19 Black Galvanized Aircraft Cable](https://tinyurl.com/2p8693zv) - $102.55
+* [1/4" x 250' 7x19 Black Galvanized Aircraft Cable](https://tinyurl.com/5krj9ebn) - $153.70
 
 ### Rope & Pulleys
-* 10.2mm x 80M Rope
-	* https://tinyurl.com/2s4xbdmr
+* [10.2mm x 80M Rope](https://tinyurl.com/2s4xbdmr)
