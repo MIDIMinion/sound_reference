@@ -28,3 +28,10 @@
     * https://tinyurl.com/bdem986k
     * you'll also wan't these adapters - $8
         * https://tinyurl.com/2hw5e6rz
+* Whirlwind Cab Driver - $276
+    * https://tinyurl.com/4j2j5cfu
+* dbx CT3 - 185
+    * https://tinyurl.com/3jtufc9k
+* Team Sound MIDI Scout - $239
+    * https://tinyurl.com/mrt44cju
+    
