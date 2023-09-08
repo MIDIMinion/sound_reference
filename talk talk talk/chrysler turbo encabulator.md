@@ -1,4 +1,4 @@
-## Chrysler Turbo Encabulator
+# Chrysler Turbo Encabulator
 
 here at chrysler motors automotive operations, research has been proceeding to develop a line of heavy duty transmissions that establishes new standards for reliability, durability, and quality
 
