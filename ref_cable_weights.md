@@ -2,7 +2,7 @@
 
 *Cable weights come from weighing real world lengths of cable, sourced from multiple shops and venues, connectors and all. Weights are averaged and the numbers below represent lbs/foot.*
 
-*This list was first compiled on 4.4.2023, and updated as time allows. it will get more accurate as time goes on.*
+*This list was first compiled on 4.4.2023, and will get updated as time allows. it will get more accurate as time goes on.*
 **Last Update: 5/21/23**
 
 
