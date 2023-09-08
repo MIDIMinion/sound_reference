@@ -18,7 +18,7 @@
 * SLCB Mega Slim Claw:
 
 ## Working Load Limits (WLL)
-* Mega Claw:1,100lbs
+* Mega Claw: 1,100lbs
 * Mega Clamp: 600lbs
 * MLBSE Mega Coupler w/ Eye Nut: 1,100lbs
 * MLSB Mega Coupler Swivel: 1,100lbs
