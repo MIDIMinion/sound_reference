@@ -1,6 +1,6 @@
 # Minotaur - Reference Notes
 
-*many of the notes in this section are echos of what's already been said in Daniel Lundberg's blog on minotaur, as well as the video of the livestream he did with TSDCA. If you're not able to access either of those, then hopefull these notes can suffice*
+*many of the notes in this section are echos of what's already been said in Daniel Lundberg's [blog](https://www.lundbergsound.com/?page_id=12) on minotaur, as well as the [video](https://tinyurl.com/2s3pyt76) of the webinar he did with TSDCA. If you're not able to access either of those, then hopefull these notes can suffice*
 
 ## Category, Method, Group
 * Category - What is it?
@@ -26,7 +26,7 @@ With your shiny new minotaur file, the world is your oyster to label! Here are s
 	| racks-foh com | all the cables & equipment inside the foh com rack |
 	| racks-amp | all the cables & equipment inside the amp rack |
 	| interconnects-ampland | all of the cables that connect one amp to another amp within ampland |
-	| loose-band | all the cable that connects loose things in the band, sucha as microphones to stage boxes or headphones to avioms |
+	| loose-band | all the cable that connects loose things in the band, such as microphones to stage boxes or headphones to avioms |
 	| speakers-front fills | speakers and cables involved in front fills |
 	| com-tech | cable and gak involved with tech com |
 	| spare | spare stuff! |
@@ -64,7 +64,7 @@ With your shiny new minotaur file, the world is your oyster to label! Here are s
 ## Mult Splitting
 mult splitting can save a lot of time if you have a lot of mults carrying the same lines on them
 
-* example: lighting tech com where each com box chains out of the one preceeding it:
+* example: lighting tech, com where each com box chains out of the one preceeding it:
 1. make a 6-pair mult called "\_LX Com"
 	* remember to give it Method 0, so it doesn't get counted in checklists!
 2. fill out the descriptions for the lines of the tail
