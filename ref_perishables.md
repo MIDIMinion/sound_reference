@@ -95,6 +95,10 @@
 * [Unisolve bottle](https://tinyurl.com/2kdejsnh) - $14
 * [Skin Prep wipes](https://tinyurl.com/5xfsf7hr) - $9
 * [Canned Air, 3 pack](https://tinyurl.com/3jdu7bu6) - $20
+* [Fly Bobbin](https://tinyurl.com/5yh6pc78)
+* [Fly Bobbin Thread Kit](https://tinyurl.com/2hfepj7v)
+* [Latex Tubing, 1/16" ID, 1/8"OD, 3M](https://tinyurl.com/2s3m3hpj)
+* [Thread Snipper](https://tinyurl.com/28eyf9fn)
 
 ### Tools
 * [ZTS Mini Multi Battery Load Cell Tester](https://tinyurl.com/3bfykvdt) - $45
