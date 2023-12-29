@@ -43,20 +43,27 @@ W x D x H
     * with lid folded open, depth = 28.5"
 
 ### Racks & Surrounds
-*more info needed*
-
-
-
-
-
-
+Sound Associates has a mix of insert racks and surrounds built by Calzone, LM, and in-house, as well as touring racks built by MT, R&R, and Georgia Case so measurements vary slightly. These measurements represent the average rounded to the nearest 1/2"
+* 1U x 8" Insert Rack: 20" x 8" x 3"
+* 2U x 7" Insert Rack: 21" x 7" x 5.5"
+* 2U x 18" Insert Rack: 21" x 18" x 5.5"
+* 3U x 14" Insert Rack: 21" x 14.5" x 7"
+* 4U x 22" Insert Rack: 21" x 22" x 9"
+* 8U x 22" Insert Rack: 21" x 22" x 15.5"
+* 10U x 22" Insert Rack: 21" x 22" x 20"
+* 16U x 22" Insert Rack: 21" x 22" x 30"
+* 20U x 22" Insert Rack: 21" x 22" x 37"
+* 10U Pull Over Surround: 28" x 26.6" x 28"
+* 16U Surround: 25" x 30" x 41"
+* 20U Surround: 24" x 30" x 48.5"
+* 20U Touring Fast Pack Single Rack: 24" x 30" x 49"
 
 ## PRG
 
 ### Boxes
 * Diamond: 43.5" x x ?
 * single cube: 30" x 22.5" x 30"
-* double cube: 45" x " 30" x 30"
+* double cube: 45" x 30" x 30"
 
 ### Racks & Surrounds
 * 16U x 24" Surround: 24.5" x 32" x 40.75"
