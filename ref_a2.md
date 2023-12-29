@@ -4,7 +4,9 @@
 ## Mic Elements
 *pictures of various mic elements*
 
+**Common Elements**
 
+![Mic Element Size Comparison](photos/Mic_Element_Size_Comparison.png)
 
 **DPA 4061**
 
@@ -79,4 +81,6 @@
 * toupee clips
 
 ## A2 Paperwork
-*anyone have any especially handy A2 paperwork they'd like to share?*
+
+### RF Schedule
+![RF Schedule](photos/RF_Schedule.png)
