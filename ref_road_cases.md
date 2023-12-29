@@ -43,7 +43,7 @@ W x D x H
     * with lid folded open, depth = 28.5"
 
 ### Racks & Surrounds
-Sound Associates has a mix of insert racks and surrounds built by Calzone, LM, and in-house, as well as touring racks built by MT, R&R, and Georgia Case so measurements vary slightly. These measurements represent the average rounded to the nearest 1/2"
+Sound Associates has a mix of insert racks and surrounds built by Calzone, LM, and in-house, as well as touring racks built by MT, R&R, and Georgia Case so measurements vary slightly. These measurements represent the average rounded to the nearest 1/2".
 * 1U x 8" Insert Rack: 20" x 8" x 3"
 * 2U x 7" Insert Rack: 21" x 7" x 5.5"
 * 2U x 18" Insert Rack: 21" x 18" x 5.5"
