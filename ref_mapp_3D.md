@@ -7,10 +7,10 @@
 * When in the model view using the view presets in the top left will restrict your drawing and object movement to the planes you are viewing.
 	* ie. Left View restricts your movement to the Z and X axes.
 * Tools can be accessed from the Tools menu of your OS toolbar, in the tools icons on the right of Mapp, and/or by right-clicking in the model view. A lot are available in all but some are only available in one or two, and some can only be available contextually depending on what you have selected in the model view. When you can't at first find a tool look in all the places and make sure you are clicking on the object when you right-click.
-* Multi-level visual Aid allows input with distance and angle, and Free Draw Geometry allows input with XYZ coordinates.
+* Multi-level visual Aid allows input with distance and angle from a Lazer Disto, and Free Draw Geometry allows input with XYZ coordinates.
 * After a surface is drawn you turn it into an audience surface that will be predicted by giving it an offset from the Object Settings tab.
 
-## Drawing a Venue using a Lazer
+## Drawing a Venue using a Lazer Disto
 1. Open Mapp 3D and create a new file.
 2. Navigate to File > Project Properties
    	* On the Units tab you can change units to your desired units.
