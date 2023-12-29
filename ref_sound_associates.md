@@ -2,9 +2,13 @@
 
 ## Public Transport
 * get the production to rent you a car... seriously...
-* take the 1 train up to 242nd st. Get an Uber from there, it'll be about $25. Alternatively, Mexico Cab is a local cab service in Yonkers that is only $15. Call them at ‭(914) 968-6666‬ when you pass 231st station and ask them to pick you up at "242nd st Burget King". Let your driver know to take exit 7 for Tuckahoe Rd
-	* it might be best to set your drop-off location to the car wash next door
-		* star auto spa: 999 saw mill river rd
+* take the 1 train up to 242nd st. From there either:
+	* Get an Uber, it'll be about $25
+		* Sometimes maps can get confused and make the end point the side of the highway behind SAI, so it might be best to set your drop-off location to the car wash next door:
+			* star auto spa: 999 Saw Mill River Rd
+   		* Let your driver know to take exit 7 for Tuckahoe Rd	 
+	* Use Mexico Cab, a local cab service in Yonkers, which will be about $15
+   		* Call them at ‭(914) 968-6666‬ when you pass 231st and ask them to pick you up at "242nd st Burget King" and drop you off at 979 Saw Mill River Rd. After you get off the train walk up to the burger king just up the road.
 
 ## Shop Reps
 * Chris Cronin
@@ -31,6 +35,10 @@
 * Grey: 48" x 25.5" x 34"
     * with lid folded open, depth = 28.5"
 
+## Break Times
+* Lunch - ~12:50 to 1:30
+* There are no set times for 15-minute breaks in the morning or evening, they are typically taken by keys on an as-needed basis.
+  
 ## Quirks
 * Doesn't rent 3pr mult, 6pr is the smallest available
 * both middle Atlantic (2RUx5) and 1RUx4 steck panels
