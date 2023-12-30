@@ -42,9 +42,9 @@ A place to put notes about good cameras, lenses, and useful info
     * Masque barcode: 5735071861
 
 ### Monitor Hardware
-* masque has "candy canes" for hanging LCD tvs from battens
-    * barcode number: 7245086781
-* masque's "X-Ray Hanggars" (code 5740)
+* Masque and Sound Associates have [The Light Source "candy canes"](https://www.thelightsource.com/products/plasma-universal-mount-set-93) for hanging LCD tvs from battens and balcony rails.
+    * Masque barcode number: 7245086781
+* Masque's "X-Ray Hanggars" (code 5740)
     * great for mounting monitors. these + long vesa screws + fender washers let you put two sidearm T's on top of the monitor
     * don't forget to ask lighting for 2 side arms + T's per monitor you want to hang
         * you'll have side arms left over, but that's fine

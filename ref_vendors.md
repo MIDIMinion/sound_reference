@@ -6,6 +6,8 @@
 ## Rigging
 * https://genericoep.com/
 * https://www.rosebrand.com/default.aspx
+* https://www.peaktrading.com/
+* https://www.fehr.com/
 
 
 ## Label Supplies

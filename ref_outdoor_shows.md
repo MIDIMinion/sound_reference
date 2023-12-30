@@ -24,4 +24,5 @@
 * a spare pair of socks
 * a zip up hoodie
 * bug spray/sunscreen
+* Extra socks
 
