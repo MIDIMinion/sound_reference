@@ -10,6 +10,13 @@
 * Multi-level visual Aid allows input with distance and angle from a Lazer Disto, and Free Draw Geometry allows input with XYZ coordinates.
 * After a surface is drawn you turn it into an audience surface that will be predicted by giving it an offset from the Object Settings tab.
 
+## Mapp 3D Axis Orentation
+Mapp 3D is oriented with X as downstage/upstage and Y as onstage/offstage. With the origin representing downstage center on the plaster line:  
+* Positive X values go out into the house with the highest value in the last row.
+* Negative X values go upstage with the highest -X value representing the back edge of the stage.
+* Negative Y values represent house left.
+* Positive values represent house right.
+
 ## Drawing a Venue using a Lazer Disto
 1. Open Mapp 3D and create a new file.
 2. Navigate to File > Project Properties
