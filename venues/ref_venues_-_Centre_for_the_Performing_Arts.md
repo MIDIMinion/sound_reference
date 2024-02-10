@@ -31,7 +31,7 @@ Vancouver, BC V6B 0H3, Canada
 
 
 ## Venue Files
-* [Array Calc - The Centre](array_calc_files/The_Centre_-_Vancouver,_BC.dbacv)
+* [Array Calc - The Centre (Grinch 2023)](array_calc_files/Grinch_2023_-_The_Centre_-_Vancouver,_BC.dbacv)
 
 
 ## Quirks
