@@ -1,4 +1,4 @@
-# Venue Reference Notes - Winspsear Opera House - Dallas, TX
+# Venue Reference Notes - Winspear Opera House - Dallas, TX
 ### Last Updated: 1/25/24 by Jason O'Neal
 
 ## Address
