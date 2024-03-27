@@ -15,7 +15,7 @@ New York, NY 10036
 
 ## Food, Drink, Coffee [🥬=good vegetarian options]
 * Ollie's Sichuan @ [Sichuan Chinese] 411 West 42nd Street New York, NY 10036 🥬 
-* Sunac Nautral Market [Buffet + Extensive Deli Counter + Noodles] @ 600 W 42nd St, New York, NY 10036 🥬
+* Sunac Nautral Market [Buffet + Extensive Deli Counter] @ 600 W 42nd St, New York, NY 10036 🥬
 * At Nine Restaurant & Bar [Thai] @ 592 9th Ave, New York, NY 10036 🥬 
 * Red Poke [Korean fast casual] @ 600 9th Ave, New York, NY 10036
 * Sticky's [Chicken Fingers] @ 598 9th Ave, New York, NY 10036
