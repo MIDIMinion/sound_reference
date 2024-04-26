@@ -21,3 +21,4 @@ Don't see something here you were looking for? Wan't to contribute your notes to
 * sam kusnetz
 * jason o'neal
 * brenden friedel
+* shannon bailey
