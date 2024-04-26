@@ -82,7 +82,7 @@
 * port: 50035
 * Ip address must be computer running wave tool main license. Cannot trigger OSC message on client computer 
 /wtchat/QLAB/{dest} "message"
-*{Dest} can be All or name set in preferences 
+*{Dest} can be All or name set in preferences* 
 
 ## MIDI
 
@@ -114,3 +114,7 @@
 ### Timecode
 * LTC2: smpte ltc wave file generator
 	* https://elteesee.pehrhovey.net/
+* Owen Meadows' [Timecode / Music Sync Point Calculator](https://tinyurl.com/4n85x484)
+	* used to find the timecode and/or standard time value of a given measure and beat in a score
+* Owen Meadows' [Timecode / Score Mapping Calculator](https://tinyurl.com/mrynd4uf)
+	* used to find the timecode and time standard value at chosen markers in a piece of music
