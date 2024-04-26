@@ -21,6 +21,7 @@ A place to put notes about good cameras, lenses, and useful info
         * IR cut filter switches on/off to enhance sensitivity in BW mode
 * Ikegami ICD-47
     * low light, high IR sensitivity camera
+* Webgate C1080BM HD-CCTV
 
 
 ## Lenses

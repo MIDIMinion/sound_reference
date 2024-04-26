@@ -4,6 +4,15 @@
 
 W x D x H
 
+## Shops
+[Masque](#masque)
+
+[PRG](#prg)
+
+[Sound Associates](#sai)
+
+[Minotaur](#minotaur)
+
 <a name="masque"></a>
 ## Masque Sound
 
