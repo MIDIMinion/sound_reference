@@ -10,6 +10,7 @@
 
 ## Connectors and Electricity
 ### Cams/Service Tie-Ins
+![camlock](photos/camlock.jpeg)
 <img src='photos/Camlock.jpeg' width='200'></img>
 * 120/208v 3-phase(in the US)
 	* 120v from any phase to Neutral.
