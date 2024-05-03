@@ -10,13 +10,13 @@
 
 ## Connectors and Electricity
 ### Cams/Service Tie-Ins
-<img src='photos/Camlock.jpeg' width='200'>
+<img src='photos/Camlock.jpeg' width='200'></img>
 * 120/208v 3-phase(in the US)
 	* 120v from any phase to Neutral.
-	* 208v from phase to phase.
+ 	* 208v from phase to phase.
 
 ### L21-30
-<img src='photos/L21-30_Male_Female.jpg' width='200'>
+<img src='photos/L21-30_Male_Female.jpeg' width='200'></img>
 * 3-phase 30A per phase.
 * center pin is ground, blade w/ right angle is neutral
 * 3-phases are 120v and 2 legs can be combined at the end device to make 208v.
@@ -24,7 +24,7 @@
 * Male and Female connectors.
 
 ### Edison
-<img src='photos/Edison_Male_Female.jpeg' width='200'>
+<img src='photos/Edison_Male_Female.jpeg' width='200'></img>
 * 120v
 * 15A or 20A
 * On 20A Male connectors the Neutral blade is rotated 90 degrees to prevent plugging a 20A device into a 15A receptacle.
@@ -32,13 +32,13 @@
 
 
 ### PowerCon
-<img src='photos/Powercon_White_Blue.png' width='200'>
+<img src='photos/Powercon_White_Blue.png' width='200'></img>
 * Can carry up to 20A at 120V or 208V.
 * Blue connector used for input and White connector for output.
 * Requires a coupler to extend.
 
 ## TrueOne
-<img src='photos/TrueOne_Male_Female.png' width='200'>
+<img src='photos/TrueOne_Male_Female.png' width='200'></img>
 * Can carry up to 20A at 120V or 208V.
 * TOP series connectors are available and carry an IP rating when mated.
 * Male and Female connectors.
