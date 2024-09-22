@@ -25,3 +25,4 @@ Don't see something here you were looking for? Wan't to contribute your notes to
 * owen meadows
 * ryan cooper
 * josh boatman
+* ben truppin-brown

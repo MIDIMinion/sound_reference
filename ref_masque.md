@@ -21,14 +21,16 @@
     * LeslieStong@masquesound.com
 * Jason McKenna - Project Manager
     * jasonmckenna@masquesound.com
+* Andrew Rovner - Project Manager
+    * andrewrovner@masquesound.com
 * Scott Kalata - Director of Sales
     * scottkalata@masquesound.com
 * Gary Stocker - Technical Director (consoles)
     * GaryStocker@masquesound.com
 * Doug Cross - Technical Coordinator 
     * DougCross@masquesound.com
-* Jim Romano - Computer Wizard
-    * JimRomano@masquesound.com
+* Brian Merckx - Computer Wizard
+    * brianmerckx@masquesound.com
 
 ## Typical Schedules
 * Call time: 8:30am to 4:30pm
