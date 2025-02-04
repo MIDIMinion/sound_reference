@@ -25,19 +25,37 @@ This information is pooled from my(Ryan Cooper's) discoveries, guides from frien
   * First start by defaulting the switch to clear out any shop default settings. Use a paper clip to hold down the reset button for 15ish seconds till all the switch lights flash. The switch will take a few minutes to come back up in factory default state. If the switch is not reachable after reset, it may need a power cycle. 
  
 * Making a base config
-  * Connect to the switch via port 2 and go to the switch IP. The Default Cisco SG series IP is 192.168.1.254/24.
-  * Enter the default user name and password, or the shop-assigned one.
-   * UN: cisco
-   * PW: cisco
-  * Enter a new user name and password
-  * Change the management IP: 
-   * In VLAN Management:
-    * Make VLAN 1009
-    * Make port 1 on the switch untagged on VLAN 1009.
-   * In Administration>Management Interface>IPv4 Management and Interfaces Submenu, IPv4 Interface:
-    * Add an interface on VLAN 1009, at the desired switch IP within the 192.168.9.0/24 subnet. Once you hit ok you will no longer be connected to the switch.
-   * Connect to port 1 and set your computer's interface IP to one compatible with the new switch IP. Connect to the switch at it's new address.
-   * Set all switch ports to be VLAN 1009. This means that any port not set to another VLAN will be a management port.
-    * NOTE: This is not the most secure way to do this, but allows for ease of setup. This guide is not for network security.
-  * Disable Green Ethernet
-   *  
+    * Connect to the switch and change the default UN and PW.
+      * Connect to the switch via port 2 and go to the switch IP. The Default Cisco SG series IP is 192.168.1.254/24.
+      * Enter the default user name and password, or the shop-assigned one.
+        * UN: cisco
+        * PW: cisco
+      * Enter a new user name and password
+    * Change the management IP:
+      * In VLAN Management:
+        * Make VLAN 1009
+        * Make port 1 on the switch untagged on VLAN 1009.
+      * In Administration > Management Interface > IPv4 Management and Interfaces Submenu, IPv4 Interface:
+        * Add an interface on VLAN 1009, at the desired switch IP within the 192.168.9.0/24 subnet. Once you hit ok you will no longer be connected to the switch.
+        * Connect to port 1 and set your computer's interface IP to one compatible with the new switch IP. Connect to the switch at it's new address.
+   * Set all ports to management to have a base:
+     * Set all switch ports to be VLAN 1009. This means that any port not set to another VLAN will be a management port.
+     * NOTE: This is not the most secure way to do this, but allows for ease of setup. This guide is not for network security.
+   * Disable Green Ethernet:
+     * Navigate to Port Management > Green Ethernet > Properties
+     * Disable "802.3 Energy Efficent Ethernet(EEE)"
+     * In Port Management > Green Ethernet > Port Settings all ports should show disabled.
+   * Disable Smart Port
+   * Add Vlans as needed
+     * In VLAN Management add VLANs as needed for your show.
+   * Multicast
+     * In properties enable "Bridge Multicast Filtering Status"
+     * Use the drop-down to select each VLAN and change the forwarding method to "IP Group Address"
+     * In IPv4 Multicast Configuration > IGMP Snooping
+       *  Enable IGMP Snooping and Querier Status.
+       *  For Each VLAN using multicast(XDIP, Dante, AES67 etc.)
+         *  Select the VLAN and click edit.
+         *  In the pop-up enable IGMP Snooping status, immediate leave, IGMP Querier status, IGMP Querier Election.
+         *  Set IGMP Querier version to v2.
+         *  Set Querier Source IP Address to Auto.
+   * QoS
