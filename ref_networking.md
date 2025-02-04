@@ -47,7 +47,7 @@ This information is pooled from my(Ryan Cooper's) discoveries, guides from frien
      * Disable "802.3 Energy Efficent Ethernet(EEE)"
      * In Port Management > Green Ethernet > Port Settings all ports should show disabled.
    * Disable Smart Port
-   * Add Vlans as needed
+   * Add VLANs as needed
      * In VLAN Management add VLANs as needed for your show.
    * Multicast
      * In properties enable "Bridge Multicast Filtering Status"
@@ -76,9 +76,9 @@ This information is pooled from my(Ryan Cooper's) discoveries, guides from frien
      * Under Quality of Service > General > QoS Properties set the Qos Mode to Basic. Hit Apply.
      * Under Quality of Service > QoS Basic Mode > Global Settings set the Trust Mode to SDCP. Hit Apply.
      * Under Quality of Service > General > DSCP to Que
-       * In the Table set DSCP 56 set to Queue 8, DSCP46 set to Queue 7, DSCP34 set to Queue 6, all other values to 1. Hit Apply.
+       * In the Table set DSCP 56 to Queue 8, DSCP46 to Queue 7, DSCP34 to Queue 6, all other values to 1. Hit Apply.
        * You can tab through these fields and use your numbers to set them fast.
-   * Hit Save.
+   * SAVE.
    * In Administration > File Management save this config to your computer.
  
 * Per Switch
@@ -108,5 +108,5 @@ This information is pooled from my(Ryan Cooper's) discoveries, guides from frien
       * Set Trunk/Access configuration per LAG.
       * Set Trunk/Access configuration per port. You do not need to set anything per port for ports that are members of a LAG. Those can be left as is.
       * Assign VLANs to desired ports and LAGs as needed.
-  * SAVE. It's a good idea to back up this config as well in case you need to swap a switch for a hardware issue. 
+  * SAVE. It's a good idea to back up this config as well in case you need to swap a switch for a hardware issue.
    
