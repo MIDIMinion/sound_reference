@@ -1,6 +1,7 @@
 # Networking - Reference Notes
 
 Here is a quick guide to switch configuration for each switch model. Networking is complex, and there are a lot of caveats to each particular setup.
+
 Please use this as a checklist to help get the essential things complete, and not as the only way to configure a switch. Proceed with caution.
 
 
@@ -9,8 +10,8 @@ Please use this as a checklist to help get the essential things complete, and no
   * IPv4 Addresses are composed of 4 octets, separated by decimals for a total of 32 bits. Each octet can contain up to 255 values from 0-254.
 * Subnet Masks
   * It's common to see subnet masks referred to as a number like /16 or /24. This refers to how many bits are masked
-      */16 would be equivalent to 255.255.0.0
-      */24 would be equivalent to 255.255.255.0
+      * /16 would be equivalent to 255.255.0.0
+      * /24 would be equivalent to 255.255.255.0
 
 
 ## Cisco SG350
@@ -49,7 +50,7 @@ This information is pooled from my(Ryan Cooper's) discoveries, guides from frien
    * Disable Smart Port
    * Add VLANs as needed
      * In VLAN Management add VLANs as needed for your show.
-   * Multicast
+   * Multicast(Important for Dante networks with multicast and XDIPs. If you aren't using either this section could be potentially ignored).
      * In properties enable "Bridge Multicast Filtering Status"
      * Use the drop-down to select each VLAN and change the forwarding method to "IP Group Address"
      * In IPv4 Multicast Configuration > IGMP Snooping
@@ -71,7 +72,7 @@ This information is pooled from my(Ryan Cooper's) discoveries, guides from frien
       * Select each vlan and ensure that all ports are set to none. This prevents multicast from flooding all ports.
       * Click apply if you change anything.
     * In Multicast > Unregestered Multicast
-     * Set all ports to forwarding. For a network without Video-over-IP devices set all to Forwarding. If you have video over IP devices: for more detail on this visit the Shure doc visited above.
+     * Set all ports to forwarding. For a network without Video-over-IP devices set all to Forwarding. If you have video over IP devices: for more detail on this visit the Shure doc linked above.
    * QoS
      * Under Quality of Service > General > QoS Properties set the Qos Mode to Basic. Hit Apply.
      * Under Quality of Service > QoS Basic Mode > Global Settings set the Trust Mode to SDCP. Hit Apply.
