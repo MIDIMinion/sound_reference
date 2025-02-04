@@ -5,8 +5,8 @@ Please use this as a checklist to help get the essential things complete, and no
 
 
 ## Shorthand
-*IPv4 Address
-  *IPv4 Addresses are composed of 4 octets, separated by decimals for a total of 32 bits. Each octet can contain up to 255 values from 0-254.
+* IPv4 Address
+  * IPv4 Addresses are composed of 4 octets, separated by decimals for a total of 32 bits. Each octet can contain up to 255 values from 0-254.
 * Subnet Masks
   * It's common to see subnet masks referred to as a number like /16 or /24. This refers to how many bits are masked
       */16 would be equivalent to 255.255.0.0
