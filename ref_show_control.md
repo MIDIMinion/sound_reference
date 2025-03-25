@@ -68,7 +68,7 @@
 * Unmute Outputs:
 	* /output/#/mute 0.0
 
-### Galaxy 816
+### Galaxy 816 (Normal Mode)  
 * port: 25004
 * Mute Outputs:
 	* /processing/output/1/mute 1
@@ -78,6 +78,10 @@
 * the galaxy assumes that any values sent to it via OSC are in sample rates at 96kHz.
 	* if you're trying to set delay times, multiply the value in ms you WANT by 96. the resulting number is the value (in samples) that should be sent to the galaxy
 		* ex. 80ms * 96 = 7680 (send this value to galaxy)
+### Galaxy 816 (Spacemap Go Mode)  
+* port: 38033
+* the Spacemap System IP configuration matters a great deal in a Galaxy system that includes a Galaxy in Spacemap mode. If your Galaxies are 10.0.1.20,.21,and .22, the Spacemap System IP Configuration should end in .23, not .19. If you are responsible for a future system that includes Galaxies in Spacemap mode, contact Meyer in advance to learn current best practices.
+
 ### wave tool
 * port: 50035
 * Ip address must be computer running wave tool main license. Cannot trigger OSC message on client computer 
