@@ -1,5 +1,11 @@
 # Connector Pinouts - Reference Notes
 
+## 4-Pin XLR (for intercom headsets)
+1. Microphone Screen (-)
+2. Micropone Input (+)
+3. Headphone Return (-)
+4. Headphone Output (+)
+
 ## TRS
 1. Sleeve - Shield
 2. Tip - Hot (positive)
