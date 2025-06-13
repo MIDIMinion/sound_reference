@@ -101,5 +101,6 @@
 * JF80 yoke, variant B: 6.75", 5.75", 4.75"
 
 
-## Sources
-* https://www.thelightsource.com/products/
+## Sources/Resources
+* [The Light Source](https://www.thelightsource.com/products/)
+* [How to Swage](https://e-rigging.com/collections/cable-cutters-swage-tools-fittings#swaging-sleeves)

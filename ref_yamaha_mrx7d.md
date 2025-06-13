@@ -23,3 +23,7 @@
 7. If all seems happy, disconnect the control computer from the processor, and then put the processor back on the Dante network
 8. Load a saved Dante preset for the processor
     * Initializing the processor breaks Dante subscriptions, so you'll need to go through an re-sibscribe
+
+## Notes about laying out the internal processor
+* put meters on your inputs and outputs - this is going to help you later on when trying to troubleshoot signal flow
+    * you can then also put these into the visual/control layout for Provisionaire Control/Kiosk

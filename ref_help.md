@@ -26,3 +26,4 @@ Don't see something here you were looking for? Wan't to contribute your notes to
 * ryan cooper
 * josh boatman
 * ben truppin-brown
+* jon weston
