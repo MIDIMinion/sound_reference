@@ -9,19 +9,42 @@
 
 
 ## Connectors and Electricity
-### Cams/Service Tie Ins
-* 120v 3-phase
+### Cams/Service Tie-Ins
+![camlock](photos/Camlock.jpeg)
+* 120/208v 3-phase(in the US)
+	* 120v from any phase to Neutral.
+ 	* 208v from phase to phase.
 
 ### L21-30
-* 3-phase
+![L2130](photos/L21-30_Male_Female.jpeg)
+* 3-phase 30A per phase.
 * center pin is ground, blade w/ right angle is neutral
+* 3-phases are 120v and 2 legs can be combined at the end device to make 208v.
+* Often used with breakered distribution boxes at the endpoint to "break out" a single L21-30 to multiple circuits(15A, 20A, 30A) and voltages(120/208).
+* Male and Female connectors.
 
 ### Edison
+![edison](photos/Edison_Male_Female.jpeg)
+* 120v
+* 15A or 20A
+* On 20A Male connectors the Neutral blade is rotated 90 degrees to prevent plugging a 20A device into a 15A receptacle.
+* Male and Female connectors.
+
 
 ### PowerCon
+![powercon](photos/Powercon_White_Blue.png)
+* Can carry up to 20A at 120V or 208V.
+* Blue connector used for input and White connector for output.
+* Requires a coupler to extend.
+
+## TrueOne
+![trueone](photos/TrueOne_Male_Female.png)
+* Can carry up to 20A at 120V or 208V.
+* TOP series connectors are available and carry an IP rating when mated.
+* Male and Female connectors.
 
 ## ISO Transformer Tie In
-ISO creates the nuetral for the PD (the load)
+ISO creates the neutral for the PD (the load)
 ### Into the ISO:
 * GND
 * Red

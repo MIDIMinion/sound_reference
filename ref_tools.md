@@ -22,6 +22,8 @@
     * https://tinyurl.com/yc8bbr83
 * Rolls MO2020se Testocillator Sine/Square Wave Generator - $109
     * https://tinyurl.com/37zv4sx5
+* CTP Systems dBbox3 - Analogue/AES/MIDI/Timecode/2 Wire Com Tester - $690
+    * https://tinyurl.com/mpemvu4b
 
 ## Testers
 * Sperry Instruments TT64202 RJ45 & BNC Tester - $42.39

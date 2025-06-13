@@ -1,0 +1,65 @@
+<!DOCTYPE ArrayCalc>
+<ArrayCalc Version="11.2.2">
+    <Project Name="Grinch West 2023">
+        <Date>02.10.2023</Date>
+        <Author>sam kusnetz</Author>
+        <Comments></Comments>
+    </Project>
+    <Venue Version="9">
+        <Comments></Comments>
+        <RoomObject Locked="0" Name="Orch Near-ish" Enabled="1" ListenerHeight="0.45720000000000005" ParentVenueObjectId="0" OrderIndex="1" Shape="1" PlaneType="1" Transparent="1" Color="4294945280" PrintColor="4294945280">
+            <Origin x="14.511528" y="0" z="0.58521599999999996"/>
+            <Rotation x="0" y="0" z="0"/>
+            <Scaling x="1" y="1" z="1"/>
+            <P1 x="0" y="11.15568" z="0"/>
+            <P2 x="4.2611040000000013" y="11.97864" z="0.67360799999999998"/>
+            <P3 x="4.2611040000000013" y="-11.97864" z="0.67360799999999998"/>
+            <P4 x="0" y="-11.15568" z="0"/>
+        </RoomObject>
+        <RoomObject Locked="0" Name="Orch Far-ish" Enabled="1" ListenerHeight="0.45720000000000005" ParentVenueObjectId="0" OrderIndex="2" Shape="1" PlaneType="1" Transparent="1" Color="4294945280" PrintColor="4294945280">
+            <Origin x="18.772632000000002" y="0" z="1.2588239999999999"/>
+            <Rotation x="0" y="0" z="0"/>
+            <Scaling x="1" y="1" z="1"/>
+            <P1 x="0" y="11.978639999999999" z="0"/>
+            <P2 x="6.3855600000000017" y="13.197839999999999" z="1.167384"/>
+            <P3 x="6.3855600000000017" y="-13.197839999999999" z="1.167384"/>
+            <P4 x="0" y="-11.978639999999999" z="0"/>
+        </RoomObject>
+        <RoomObject Locked="0" Name="Orch Far" Enabled="1" ListenerHeight="0.45720000000000005" ParentVenueObjectId="0" OrderIndex="3" Shape="1" PlaneType="1" Transparent="1" Color="4294945280" PrintColor="4294945280">
+            <Origin x="25.158192000000003" y="0" z="2.4262079999999999"/>
+            <Rotation x="0" y="0" z="0"/>
+            <Scaling x="1" y="1" z="1"/>
+            <P1 x="0" y="13.197839999999999" z="0"/>
+            <P2 x="10.716767999999998" y="15.300960000000003" z="2.4475440000000006"/>
+            <P3 x="10.716767999999998" y="-15.300960000000002" z="2.4475440000000006"/>
+            <P4 x="0" y="-13.197839999999999" z="0"/>
+        </RoomObject>
+        <RoomObject Locked="0" Name="Orch Near" Enabled="1" ListenerHeight="0.45720000000000005" ParentVenueObjectId="0" OrderIndex="4" Shape="1" PlaneType="1" Transparent="1" Color="4294945280" PrintColor="4294945280">
+            <Origin x="5.3675280000000001" y="0" z="-0.32308800000000004"/>
+            <Rotation x="0" y="0" z="0"/>
+            <Scaling x="1" y="1" z="1"/>
+            <P1 x="0" y="9.3573599999999999" z="0"/>
+            <P2 x="9.1440000000000001" y="11.15568" z="0.908304"/>
+            <P3 x="9.1440000000000001" y="-11.15568" z="0.908304"/>
+            <P4 x="0" y="-9.3573599999999999" z="0"/>
+        </RoomObject>
+        <RoomObject Locked="0" Name="Mezz" Enabled="1" ListenerHeight="0.45720000000000005" ParentVenueObjectId="0" OrderIndex="5" Shape="1" PlaneType="1" Transparent="1" Color="4294945280" PrintColor="4294945280">
+            <Origin x="28.782264000000005" y="0" z="6.7543680000000004"/>
+            <Rotation x="0" y="0" z="0"/>
+            <Scaling x="1" y="1" z="1"/>
+            <P1 x="0" y="15.386303999999999" z="0"/>
+            <P2 x="7.1963280000000012" y="15.124176" z="2.8376879999999991"/>
+            <P3 x="7.1963280000000012" y="-15.124176" z="2.8376879999999991"/>
+            <P4 x="0" y="-15.386303999999999" z="0"/>
+        </RoomObject>
+        <RoomObject Locked="0" Name="Balc" Enabled="1" ListenerHeight="0.45720000000000005" ParentVenueObjectId="0" OrderIndex="6" Shape="1" PlaneType="1" Transparent="1" Color="4294945280" PrintColor="4294945280">
+            <Origin x="28.785312000000001" y="0" z="11.332464"/>
+            <Rotation x="0" y="0" z="0"/>
+            <Scaling x="1" y="1" z="1"/>
+            <P1 x="0" y="15.413736" z="0"/>
+            <P2 x="9.7078799999999994" y="14.987016000000001" z="4.6329600000000024"/>
+            <P3 x="9.7078799999999994" y="-14.987016000000001" z="4.6329600000000024"/>
+            <P4 x="0" y="-15.413736" z="0"/>
+        </RoomObject>
+    </Venue>
+</ArrayCalc>

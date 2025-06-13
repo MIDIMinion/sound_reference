@@ -1,6 +1,7 @@
 # Masque Sound - Reference Notes
 
 ## Public Transport
+* [Masque Bus Gate](https://www.portauthoritygate.com/163)
 * 163 Bus from Port Authority
     * 7:40 am (arrives 8:15 am) and 8:10am (arrives 8:45am)
     * make sure the bus says "Murray Hill"
@@ -16,20 +17,20 @@
     * for the 4:50pm train, leave shop at: 4:30pm
 
 ## Shop Reps & Staff
-* Cami Letrick - Project Manager
-    * camiletrick@masquesound.com
 * Leslie Stong - Project Manager
     * LeslieStong@masquesound.com
 * Jason McKenna - Project Manager
     * jasonmckenna@masquesound.com
+* Andrew Rovner - Project Manager
+    * andrewrovner@masquesound.com
 * Scott Kalata - Director of Sales
     * scottkalata@masquesound.com
 * Gary Stocker - Technical Director (consoles)
     * GaryStocker@masquesound.com
 * Doug Cross - Technical Coordinator 
     * DougCross@masquesound.com
-* Jim Romano - Computer Wizard
-    * JimRomano@masquesound.com
+* Brian Merckx - Computer Wizard
+    * brianmerckx@masquesound.com
 
 ## Typical Schedules
 * Call time: 8:30am to 4:30pm
@@ -50,11 +51,7 @@
 * Orange - 250'
 
 ## Road Cases
-* Diamond: 47.5" x 29.5" x 36"
-* Utility: 36.5" x 22" x 35"
-* Grey: 38" x 26.5" x 31.5"
-* Sammie: 39" x 24" x 31"
-* Cube: ?" x ?" x ?"
+[Masque Roadcases](https://soundreferencenotes.com/ref_road_cases.html)
 
 
 ## Keep in Mind

@@ -58,6 +58,7 @@
 * [Excell tape dispenser](https://tinyurl.com/4p9w7edx) - $24
 * [3/4" Clear Vinyl Tape](https://tinyurl.com/2p8cs7c5) - $1.73
 * [2" Clear Vinyl Tape](https://tinyurl.com/4nfkhwhu) - $4.46
+* [2" x 12" ISC Racers Tape/"Helicopter" Tape](https://tinyurl.com/32aepvc7) - $32
 
 
 

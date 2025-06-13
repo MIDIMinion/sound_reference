@@ -1,0 +1,41 @@
+<!DOCTYPE ArrayCalc>
+<ArrayCalc Version="11.2.2">
+    <Project Name="Grinch East 2023">
+        <Date>02.10.2023</Date>
+        <Author>sam kusnetz</Author>
+        <Comments></Comments>
+    </Project>
+    <Venue Version="9">
+        <Comments></Comments>
+        <RoomObject ParentVenueObjectId="0" OrderIndex="1" PlaneType="1" Shape="2" InnerZ="-1.09728" OuterRadiusA="20.269200000000001" PrintColor="4294945280" Locked="0" Transparent="0" Color="4294945280" ListenerHeight="1.143" InnerRadiusB="11.5824" OuterZ="-1.0363200000000001" StartAngle="332.60000000000002" SpanAngle="54.799999999999997" InnerRadiusA="16.306799999999999" OuterRadiusB="16.687799999999999" Enabled="1" Name="Orch A-E">
+            <Origin x="-11.353800000000001" y="0" z="0"/>
+            <Rotation x="0" y="0" z="0"/>
+            <Scaling x="1" y="1" z="1"/>
+        </RoomObject>
+        <RoomObject ParentVenueObjectId="0" OrderIndex="2" PlaneType="1" Shape="2" InnerZ="-1.0363200000000001" OuterRadiusA="35.814" PrintColor="4294945280" Locked="0" Transparent="0" Color="4294945280" ListenerHeight="1.143" InnerRadiusB="16.687799999999999" OuterZ="0.15240000000000001" StartAngle="329" SpanAngle="62" InnerRadiusA="20.269200000000001" OuterRadiusB="33.908999999999999" Enabled="1" Name="Orch F-Y">
+            <Origin x="-11.353800000000001" y="0" z="0"/>
+            <Rotation x="0" y="0" z="0"/>
+            <Scaling x="1" y="1" z="1"/>
+        </RoomObject>
+        <RoomObject ParentVenueObjectId="0" OrderIndex="3" PlaneType="1" Shape="2" InnerZ="0.15240000000000001" OuterRadiusA="40.995600000000003" PrintColor="4294945280" Locked="0" Transparent="0" Color="4294945280" ListenerHeight="1.143" InnerRadiusB="33.908999999999999" OuterZ="0.83820000000000006" StartAngle="333.5" SpanAngle="53" InnerRadiusA="35.814" OuterRadiusB="39.319200000000002" Enabled="1" Name="Orch Y-SS">
+            <Origin x="-11.353800000000001" y="0" z="0"/>
+            <Rotation x="0" y="0" z="0"/>
+            <Scaling x="1" y="1" z="1"/>
+        </RoomObject>
+        <RoomObject ParentVenueObjectId="0" OrderIndex="4" PlaneType="1" Shape="2" InnerZ="0.83820000000000006" OuterRadiusA="47.0916" PrintColor="4294945280" Locked="0" Transparent="0" Color="4294945280" ListenerHeight="1.143" InnerRadiusB="39.319200000000002" OuterZ="1.905" StartAngle="336" SpanAngle="48" InnerRadiusA="40.995600000000003" OuterRadiusB="45.567599999999999" Enabled="1" Name="Orch SS-ZZ">
+            <Origin x="-11.353800000000001" y="0" z="0"/>
+            <Rotation x="0" y="0" z="0"/>
+            <Scaling x="1" y="1" z="1"/>
+        </RoomObject>
+        <RoomObject ParentVenueObjectId="0" OrderIndex="5" PlaneType="1" Shape="2" InnerZ="4.1909999999999998" OuterRadiusA="39.090600000000002" PrintColor="4294945280" Locked="0" Transparent="0" Color="4278465535" ListenerHeight="1.143" InnerRadiusB="30.1752" OuterZ="6.4008000000000003" StartAngle="331" SpanAngle="58" InnerRadiusA="31.699200000000001" OuterRadiusB="37.947600000000001" Enabled="1" Name="Balc Front">
+            <Origin x="-10.668000000000001" y="0" z="0"/>
+            <Rotation x="0" y="0" z="0"/>
+            <Scaling x="1" y="1" z="1"/>
+        </RoomObject>
+        <RoomObject ParentVenueObjectId="0" OrderIndex="6" PlaneType="1" Shape="2" InnerZ="6.4008000000000003" OuterRadiusA="46.481999999999999" PrintColor="4294945280" Locked="0" Transparent="0" Color="4278465535" ListenerHeight="1.143" InnerRadiusB="37.947600000000001" OuterZ="8.7172800000000006" StartAngle="336" SpanAngle="48" InnerRadiusA="39.090600000000002" OuterRadiusB="45.567599999999999" Enabled="1" Name="Balc Rear">
+            <Origin x="-10.668000000000001" y="0" z="0"/>
+            <Rotation x="0" y="0" z="0"/>
+            <Scaling x="1" y="1" z="1"/>
+        </RoomObject>
+    </Venue>
+</ArrayCalc>

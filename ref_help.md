@@ -3,7 +3,10 @@ Don't see something here you were looking for? Wan't to contribute your notes to
 
 
 ## Forms
-[Touring Venue Info Form](https://forms.gle/5FVn7zZnUfzPTiZp6)
+[Touring Venue Info Form](https://forms.gle/5FVn7zZnUfzPTiZp6)\
+[Show Data - Labor]()\
+[Show Data - Metrics]()
+
 
 
 ## Special Thanks
@@ -15,3 +18,11 @@ Don't see something here you were looking for? Wan't to contribute your notes to
 * marion ayers
 * matt karnatz
 * noah dettman
+* sam kusnetz
+* jason o'neal
+* brenden friedel
+* shannon bailey
+* owen meadows
+* ryan cooper
+* josh boatman
+* ben truppin-brown

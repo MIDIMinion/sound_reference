@@ -4,10 +4,15 @@
 50 Meadowlands Pkwy, Unit A
 Secaucus, NJ 07094
 
-* NJ Transit 129 @ gate 314 - PABT - 2 zones
+* [PRG Bus Gate - 129](https://www.portauthoritygate.com/129)
+* NJ Transit 129 @ gate 206 - PABT - 2 zones
     * 7:50am - arrives @ 8:15am
     * 8:15am - arrives @ 8:45am
     * 8:45am - arrives @ 9:15am
+* [PRG Bus Gate - 124](https://www.portauthoritygate.com/124)
+* NJ Transit 124 @ gate 206 - PABT - 2 Zones
+	* 755am - arrives @ 8:20am
+
 
 ## Break Schedule
 * 10am-10:15am (food truck)
@@ -18,18 +23,16 @@ Secaucus, NJ 07094
 * PRG has both 1pr combo cable, and 2pr combo cable available. be sure to specify
 
 ## Shop Reps
-* Erin Cummings - sound
-	* ecummings@prg.com
+* Erin Insalaco - sound
+	* erin.insalaco@prg.com
 * Stephanie DiDonato - sound
 	* sdidonato@prg.com
 * David Strang - sound
 	* dstrang@prg.com
-* Brian Finnerty - sound?
+* Brian Finnerty - sound
 	* BFinnerty@prg.com
 * Robbert Harris - video/projections
 	* RobertHarris@prg.com
-* Paul Allshouse
-	* Paul.Allshouse@prg.com
 
 ## Color Code
 * Red - 5'
@@ -41,6 +44,9 @@ Secaucus, NJ 07094
 * Yellow - 100'
 * Yellow/Orange - 150'
 * Yellow/Yellow - 200'
+
+## Road Cases
+[PRG Roadcases](https://soundreferencenotes.com/ref_road_cases.html)
 
 ## Computer Credentials
 * User: prguser
