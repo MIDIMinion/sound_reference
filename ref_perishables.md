@@ -123,7 +123,7 @@
 * [steel music wire](https://tinyurl.com/3frzwc37)
 * [whip finisher](https://tinyurl.com/3fd62bsr)
 * [clear nylon tippet line](https://tinyurl.com/mry83fcv)
-	* 3x or 4x is what you want
+	* 6x or 7x is what you want
 
 ## Rigging Supplies & Tools
 
