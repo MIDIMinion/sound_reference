@@ -27,3 +27,5 @@ Don't see something here you were looking for? Wan't to contribute your notes to
 * josh boatman
 * ben truppin-brown
 * jon weston
+* noelle sammour
+* nathan rubio
