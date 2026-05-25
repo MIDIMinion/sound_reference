@@ -21,7 +21,7 @@
 * Company Switch to BOH Orch: 175'
 * Company Switch to Prosc L: 100'
 * Company Switch to Prosc R: 75'
-* Company Switch ti Prosc C: 75'
+* Company Switch to Prosc C: 75'
 * Company Switch to Balc Rail, center house: 125'
 
 ### From FOH

@@ -7,7 +7,7 @@
 		* Sometimes maps can get confused and make the end point the side of the highway behind SAI, so it might be best to set your drop-off location to the car wash next door:
 			* star auto spa: 999 Saw Mill River Rd
    		* Let your driver know to take exit 7 for Tuckahoe Rd	 
-	* Use Mexico Cab, a local cab service in Yonkers, which will be about $15
+	* Use Mexico Cab, a local cab service in Yonkers, which will be about $15. CASH ONLY
    		* Call them at (914)968-6666‬ when you pass 231st and ask them to pick you up at "242nd st Burget King" and drop you off at 979 Saw Mill River Rd. After you get off the train walk up to the burger king just up the road.
 
 ## Shop Reps
